@@ -1,4 +1,3 @@
-import json
 import logging
 import time
 from typing import Optional
@@ -18,22 +17,6 @@ WORKER_ACTIVE_TTL = 15  # seconds without heartbeat before considered inactive
 
 def get_client() -> redis.Redis:
     return redis.Redis.from_url(config.redis_url, decode_responses=True)
-
-
-def enqueue_task(task: dict) -> None:
-    client = get_client()
-    client.lpush(TASK_QUEUE_KEY, json.dumps(task))
-    logger.info("Enqueued task %s", task.get("task_id"))
-
-
-def dequeue_task() -> Optional[dict]:
-    client = get_client()
-    raw = client.rpop(TASK_QUEUE_KEY)
-    if raw is None:
-        return None
-    task = json.loads(raw)
-    logger.info("Dequeued task %s", task.get("task_id"))
-    return task
 
 
 def mark_task_running(task_id: str) -> None:

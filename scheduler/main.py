@@ -9,8 +9,6 @@ from scheduler.config import config
 from scheduler.job_manager import create_tasks, partition_dataset
 from scheduler.redis_client import (
     all_tasks_complete,
-    dequeue_task,
-    enqueue_task,
     get_job_task_ids,
     get_metrics,
     get_task_job_id,
@@ -19,6 +17,7 @@ from scheduler.redis_client import (
     register_job,
     update_worker_heartbeat,
 )
+from scheduler.task_queue import dequeue_task, enqueue_task
 
 logging.basicConfig(
     level=logging.INFO,
