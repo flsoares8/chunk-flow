@@ -1,28 +1,46 @@
 # ChunkFlow
 
-ChunkFlow is a distributed dataset processing pipeline designed to execute feature extraction workloads across multiple worker nodes.
+ChunkFlow is a distributed dataset processing pipeline that executes feature extraction workloads across multiple worker nodes. It demonstrates core distributed systems concepts including task scheduling, worker coordination, chunk-based data partitioning, and result aggregation.
 
-The system uses a scheduler-worker architecture with chunk-based dataset partitioning and Redis-backed task coordination.
+The system follows a scheduler-worker architecture inspired by Apache Spark and Ray, using Redis as a coordination layer for task distribution and state tracking.
 
 ## Architecture
 
 See [Architecture](docs/architecture.md) for the full system diagram and component descriptions.
 
-## Project Goals
+## Key Concepts Demonstrated
 
-- Implement a distributed scheduler-worker processing model
-- Demonstrate a chunk-based dataset partitioning
-- Implement fault-torelant task execution
-- Provide observability and worker monitoring
+- **Distributed task scheduling** — a central scheduler partitions datasets and coordinates work across multiple workers
+- **Worker coordination** — stateless workers poll for tasks, execute independently, and report results back
+- **Fault tolerance** — worker heartbeats allow the scheduler to detect and monitor active nodes
+- **Result aggregation** — a dedicated reduce stage merges intermediate outputs into a final dataset
+- **Observability** — metrics endpoint exposes active workers, pending tasks, and running tasks in real time
 
 ## Tech Stack
 
-Scheduler: Python + FastAPI
-Workers: Python orchestration
-Task Store: Redis
-Compute tasks: C++
-Communication: HTTP REST
+- **Scheduler**: Python + FastAPI
+- **Workers**: Python
+- **Task coordination**: Redis
+- **Communication**: HTTP REST
+- **Containerization**: Docker
+
+## Running Locally
+
+**Start all services with 3 workers:**
+```bash
+docker compose up --scale worker=3
+```
+
+**Submit a job:**
+```bash
+PYTHONPATH=. python -m client.submit_job dataset/sample_dataset.json 3
+```
+
+**Check metrics:**
+```bash
+curl http://localhost:8000/metrics
+```
 
 ## Status
 
-🚧 Work in progress
+Feature extraction pipeline fully operational. C++ compute extension planned.
