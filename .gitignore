@@ -2,3 +2,4 @@
 __pycache__/
 dataset/*_chunk_*.json
 output/
+dump.rdb
