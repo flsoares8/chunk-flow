@@ -59,3 +59,5 @@ for record in records:
 "
 echo "Shutting down services..."
 docker compose down
+
+echo "ChunkFlow processed your data successfully."
