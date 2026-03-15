@@ -50,7 +50,7 @@ Multiple workers can run concurrently and process tasks from the same job in par
 
 Tasks are typed and dispatched by the worker executor:
 
-- **`feature_extraction`** — reads a dataset chunk, computes `value_normalized` and `value_squared` for each record, and writes results to an intermediate file in `output/<task_id>.json`
+- **`feature_extraction`** — reads a dataset chunk, computes `click_rate`, `engagement_score`, and `conversion` for each record, and writes results to an intermediate file in `output/<task_id>.json`
 - **`reduce`** — reads all intermediate output files for a job, merges and sorts the results, and writes the final dataset to `output/final_features_dataset.json`
 
 ### Reduce Stage
