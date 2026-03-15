@@ -24,6 +24,16 @@ See [Architecture](docs/architecture.md) for the full system diagram and compone
 - **Communication**: HTTP REST
 - **Containerization**: Docker
 
+## Demo
+
+To run the full pipeline end-to-end with a single command:
+
+```bash
+bash demo/run_demo.sh
+```
+
+This starts all services, submits a sample job, polls until completion, prints the results, and shuts everything down.
+
 ## Running Locally
 
 **Start all services with 3 workers:**
