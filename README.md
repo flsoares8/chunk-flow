@@ -1,42 +1,54 @@
-# ChunkFlow
+# PollutionMap
 
-ChunkFlow is a distributed dataset processing pipeline designed to execute feature extraction workloads across multiple worker nodes. It demonstrates core distributed systems concepts including task scheduling, worker coordination, chunk-based data partitioning, and result aggregation.
+PollutionMap is a distributed data processing pipeline that processes air quality readings from sensors across multiple cities in parallel, producing a city-level pollution summary.
 
-The system follows a simple scheduler-worker architecture inspired by concepts used in distributed computing frameworks such as Apache Spark and Ray, using Redis as a coordination layer for task distribution and state tracking.
-
-## Architecture
-
-See [Architecture](docs/architecture.md) for the full system diagram and component descriptions.
-
-## Key Concepts Demonstrated
-
-- **Distributed task scheduling** — a central scheduler partitions datasets and coordinates work across multiple workers
-- **Worker coordination** — stateless workers poll for tasks, execute independently, and report results back
-- **Fault tolerance** — worker heartbeats allow the scheduler to detect and monitor active nodes
-- **Result aggregation** — a dedicated reduce stage merges intermediate outputs into a final dataset
-- **Observability** — metrics endpoint exposes active workers, pending tasks, and running tasks in real time
-
-## Tech Stack
-
-- **Scheduler**: Python + FastAPI
-- **Workers**: Python
-- **Task coordination**: Redis
-- **Communication**: HTTP REST
-- **Containerization**: Docker
+A dataset is submitted to a central scheduler, which splits it into chunks and distributes them across multiple worker nodes that process them in parallel. This scheduler-worker approach scales horizontally: adding more workers reduces processing time proportionally. For a small dataset the difference is negligible, but for a dataset with millions of sensor readings from thousands of cities, splitting the work across multiple workers can be many times faster than running a single sequential script.
 
 ## Demo
 
-To run the full pipeline end-to-end with a single command:
+![demo](docs/demo.gif)
 
-```bash
-bash demo/run_demo.sh
+## How it works
+
+1. A client submits a dataset to the scheduler
+2. The scheduler partitions it into chunks and pushes tasks to a Redis queue
+3. Multiple workers poll the queue and process their assigned chunks in parallel
+4. Results are aggregated into a final output by a reduce stage
+
+```mermaid
+flowchart TD
+    Dataset[(dataset/)] -->|path + chunk_size| Client
+    Client -->|submit_job| Scheduler
+    Scheduler -->|partition| Chunks[(chunks)]
+
+    subgraph Phase 1 - Extraction
+        Scheduler -->|enqueue tasks| Redis[(Redis)]
+        Redis -->|poll| Workers[Workers]
+        Workers -->|read| Chunks
+        Workers -->|write| Output[(output/)]
+        Workers -->|heartbeat| Scheduler
+        Workers -->|complete| Scheduler
+    end
+
+    subgraph Phase 2 - Aggregation
+        Scheduler -->|enqueue reduce| Redis
+        Redis -->|poll| Reducer[Worker]
+        Reducer -->|merge| FinalDataset[(final_dataset.json)]
+    end
 ```
 
-This starts all services, submits a sample job, polls until completion, prints the results, and shuts everything down.
+## Tech Stack
+
+- **Python + FastAPI** — scheduler API
+- **Redis** — task queue and distributed state
+- **Docker** — each worker runs in its own container, making it easy to scale horizontally
+- **HTTP REST** — communication between client, scheduler, and workers
 
 ## Running Locally
 
-**Start all services with 3 workers:**
+**Prerequisites:** [Docker](https://docs.docker.com/get-docker/) must be installed and running.
+
+**Start the scheduler and 3 workers:**
 ```bash
 docker compose up --scale worker=3
 ```
@@ -46,11 +58,7 @@ docker compose up --scale worker=3
 PYTHONPATH=. python -m client.submit_job dataset/sample_dataset.json 3
 ```
 
-**Check metrics:**
+**Check live metrics (active workers, pending and running tasks):**
 ```bash
 curl http://localhost:8000/metrics
 ```
-
-## Status
-
-Feature extraction pipeline fully operational. C++ compute extension planned.
