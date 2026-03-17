@@ -22,11 +22,21 @@ def run(task: dict) -> None:
         merged.extend(records)
         logger.info("Reduce: loaded %d records from %s", len(records), path)
 
-    merged.sort(key=lambda r: r["user_id"])
+    city_data: dict = {}
+    for record in merged:
+        location = record["location"]
+        city = city_data.setdefault(location, {"total_aqi": 0.0, "peak_aqi": 0.0, "count": 0, "readings_exceeding_safe_limit": 0})
+        city["total_aqi"] += record["features"]["aqi"]
+        city["peak_aqi"] = max(city["peak_aqi"], record["features"]["aqi"])
+        city["count"] += 1
+        city["readings_exceeding_safe_limit"] += record["features"]["exceeds_safe_limit"]
+
+    for _, data in city_data.items():
+        data["avg_aqi"] = round(data.pop("total_aqi") / data.pop("count"), 2)
 
     final_path = output_dir / "final_features_dataset.json"
-    final_path.write_text(json.dumps(merged, indent=2))
-    logger.info("Reduce complete: %d total records written to %s", len(merged), final_path)
+    final_path.write_text(json.dumps(city_data, indent=2))
+    logger.info("Reduce complete: %d total records aggregated into %d cities -> %s", len(merged), len(city_data), final_path)
 
     for chunk_file in dataset_dir.glob("*_chunk_*.json"):
         chunk_file.unlink()
