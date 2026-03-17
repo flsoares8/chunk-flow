@@ -1,1002 +1,8002 @@
 [
   {
-    "user_id": "u_001",
-    "session_id": "s_334053",
-    "clicks": 7,
-    "session_time": 144,
-    "page_views": 6,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "UK"
-  },
-  {
-    "user_id": "u_002",
-    "session_id": "s_131244",
-    "clicks": 23,
-    "session_time": 588,
-    "page_views": 19,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "FR"
-  },
-  {
-    "user_id": "u_003",
-    "session_id": "s_308496",
-    "clicks": 130,
-    "session_time": 268,
-    "page_views": 20,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "JP"
-  },
-  {
-    "user_id": "u_004",
-    "session_id": "s_948749",
-    "clicks": 57,
-    "session_time": 459,
-    "page_views": 15,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "DE"
-  },
-  {
-    "user_id": "u_005",
-    "session_id": "s_900581",
-    "clicks": 88,
-    "session_time": 462,
-    "page_views": 9,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "UK"
-  },
-  {
-    "user_id": "u_006",
-    "session_id": "s_460663",
-    "clicks": 49,
-    "session_time": 124,
-    "page_views": 4,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "BR"
-  },
-  {
-    "user_id": "u_007",
-    "session_id": "s_496922",
-    "clicks": 59,
-    "session_time": 74,
-    "page_views": 18,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "JP"
-  },
-  {
-    "user_id": "u_008",
-    "session_id": "s_172933",
-    "clicks": 93,
-    "session_time": 330,
-    "page_views": 19,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "FR"
-  },
-  {
-    "user_id": "u_009",
-    "session_id": "s_498591",
-    "clicks": 21,
-    "session_time": 326,
-    "page_views": 8,
-    "purchases": 1,
-    "device": "desktop",
-    "country": "IN"
-  },
-  {
-    "user_id": "u_010",
-    "session_id": "s_802729",
-    "clicks": 42,
-    "session_time": 403,
-    "page_views": 12,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "UK"
-  },
-  {
-    "user_id": "u_011",
-    "session_id": "s_584714",
-    "clicks": 137,
-    "session_time": 205,
-    "page_views": 24,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "BR"
-  },
-  {
-    "user_id": "u_012",
-    "session_id": "s_905635",
-    "clicks": 57,
-    "session_time": 600,
-    "page_views": 22,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "FR"
-  },
-  {
-    "user_id": "u_013",
-    "session_id": "s_169403",
-    "clicks": 52,
-    "session_time": 62,
-    "page_views": 11,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "MX"
-  },
-  {
-    "user_id": "u_014",
-    "session_id": "s_774079",
-    "clicks": 55,
-    "session_time": 352,
-    "page_views": 21,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "DE"
-  },
-  {
-    "user_id": "u_015",
-    "session_id": "s_665158",
-    "clicks": 36,
-    "session_time": 301,
-    "page_views": 8,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "MX"
-  },
-  {
-    "user_id": "u_016",
-    "session_id": "s_245051",
-    "clicks": 150,
-    "session_time": 468,
-    "page_views": 13,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "IN"
-  },
-  {
-    "user_id": "u_017",
-    "session_id": "s_260265",
-    "clicks": 97,
-    "session_time": 123,
-    "page_views": 2,
-    "purchases": 1,
-    "device": "tablet",
-    "country": "DE"
-  },
-  {
-    "user_id": "u_018",
-    "session_id": "s_590785",
-    "clicks": 17,
-    "session_time": 462,
-    "page_views": 13,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "BR"
-  },
-  {
-    "user_id": "u_019",
-    "session_id": "s_814825",
-    "clicks": 3,
-    "session_time": 596,
-    "page_views": 3,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "BR"
-  },
-  {
-    "user_id": "u_020",
-    "session_id": "s_575763",
-    "clicks": 29,
-    "session_time": 378,
-    "page_views": 10,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "BR"
-  },
-  {
-    "user_id": "u_021",
-    "session_id": "s_755674",
-    "clicks": 46,
-    "session_time": 542,
-    "page_views": 17,
-    "purchases": 1,
-    "device": "desktop",
-    "country": "JP"
-  },
-  {
-    "user_id": "u_022",
-    "session_id": "s_665579",
-    "clicks": 40,
-    "session_time": 233,
-    "page_views": 12,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "US"
-  },
-  {
-    "user_id": "u_023",
-    "session_id": "s_480612",
-    "clicks": 126,
-    "session_time": 361,
-    "page_views": 1,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "FR"
-  },
-  {
-    "user_id": "u_024",
-    "session_id": "s_182582",
-    "clicks": 31,
-    "session_time": 89,
-    "page_views": 29,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "IN"
-  },
-  {
-    "user_id": "u_025",
-    "session_id": "s_234628",
-    "clicks": 98,
-    "session_time": 100,
-    "page_views": 18,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "IN"
-  },
-  {
-    "user_id": "u_026",
-    "session_id": "s_736059",
-    "clicks": 43,
-    "session_time": 592,
-    "page_views": 9,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "FR"
-  },
-  {
-    "user_id": "u_027",
-    "session_id": "s_804314",
-    "clicks": 52,
-    "session_time": 582,
-    "page_views": 23,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "CA"
-  },
-  {
-    "user_id": "u_028",
-    "session_id": "s_335612",
-    "clicks": 133,
-    "session_time": 478,
-    "page_views": 15,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "CA"
-  },
-  {
-    "user_id": "u_029",
-    "session_id": "s_330914",
-    "clicks": 38,
-    "session_time": 51,
-    "page_views": 18,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "UK"
-  },
-  {
-    "user_id": "u_030",
-    "session_id": "s_446479",
-    "clicks": 30,
-    "session_time": 90,
-    "page_views": 3,
-    "purchases": 1,
-    "device": "mobile",
-    "country": "JP"
-  },
-  {
-    "user_id": "u_031",
-    "session_id": "s_665427",
-    "clicks": 72,
-    "session_time": 273,
-    "page_views": 22,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "MX"
-  },
-  {
-    "user_id": "u_032",
-    "session_id": "s_526833",
-    "clicks": 63,
-    "session_time": 514,
-    "page_views": 26,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "UK"
-  },
-  {
-    "user_id": "u_033",
-    "session_id": "s_589710",
-    "clicks": 111,
-    "session_time": 129,
-    "page_views": 12,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "US"
-  },
-  {
-    "user_id": "u_034",
-    "session_id": "s_939482",
-    "clicks": 16,
-    "session_time": 130,
-    "page_views": 13,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "FR"
-  },
-  {
-    "user_id": "u_035",
-    "session_id": "s_542374",
-    "clicks": 49,
-    "session_time": 226,
-    "page_views": 18,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "BR"
-  },
-  {
-    "user_id": "u_036",
-    "session_id": "s_564656",
-    "clicks": 64,
-    "session_time": 503,
-    "page_views": 28,
-    "purchases": 1,
-    "device": "tablet",
-    "country": "UK"
-  },
-  {
-    "user_id": "u_037",
-    "session_id": "s_197793",
-    "clicks": 70,
-    "session_time": 81,
-    "page_views": 27,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "DE"
-  },
-  {
-    "user_id": "u_038",
-    "session_id": "s_520521",
-    "clicks": 125,
-    "session_time": 446,
-    "page_views": 16,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "DE"
-  },
-  {
-    "user_id": "u_039",
-    "session_id": "s_922157",
-    "clicks": 1,
-    "session_time": 418,
-    "page_views": 1,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "BR"
-  },
-  {
-    "user_id": "u_040",
-    "session_id": "s_262316",
-    "clicks": 143,
-    "session_time": 463,
-    "page_views": 22,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "BR"
-  },
-  {
-    "user_id": "u_041",
-    "session_id": "s_163918",
-    "clicks": 15,
-    "session_time": 252,
-    "page_views": 10,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "CA"
-  },
-  {
-    "user_id": "u_042",
-    "session_id": "s_994141",
-    "clicks": 7,
-    "session_time": 88,
-    "page_views": 5,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "DE"
-  },
-  {
-    "user_id": "u_043",
-    "session_id": "s_171849",
-    "clicks": 66,
-    "session_time": 88,
-    "page_views": 3,
-    "purchases": 1,
-    "device": "tablet",
-    "country": "UK"
-  },
-  {
-    "user_id": "u_044",
-    "session_id": "s_697347",
-    "clicks": 104,
-    "session_time": 270,
-    "page_views": 4,
-    "purchases": 1,
-    "device": "mobile",
-    "country": "MX"
-  },
-  {
-    "user_id": "u_045",
-    "session_id": "s_692683",
-    "clicks": 11,
-    "session_time": 70,
-    "page_views": 7,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "CA"
-  },
-  {
-    "user_id": "u_046",
-    "session_id": "s_350280",
-    "clicks": 53,
-    "session_time": 297,
-    "page_views": 22,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "AU"
-  },
-  {
-    "user_id": "u_047",
-    "session_id": "s_888387",
-    "clicks": 77,
-    "session_time": 164,
-    "page_views": 15,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "US"
-  },
-  {
-    "user_id": "u_048",
-    "session_id": "s_323508",
-    "clicks": 145,
-    "session_time": 499,
-    "page_views": 4,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "BR"
-  },
-  {
-    "user_id": "u_049",
-    "session_id": "s_356150",
-    "clicks": 90,
-    "session_time": 165,
-    "page_views": 29,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "BR"
-  },
-  {
-    "user_id": "u_050",
-    "session_id": "s_417212",
-    "clicks": 113,
-    "session_time": 191,
-    "page_views": 27,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "JP"
-  },
-  {
-    "user_id": "u_051",
-    "session_id": "s_208618",
-    "clicks": 36,
-    "session_time": 38,
-    "page_views": 10,
-    "purchases": 1,
-    "device": "mobile",
-    "country": "BR"
-  },
-  {
-    "user_id": "u_052",
-    "session_id": "s_385577",
-    "clicks": 28,
-    "session_time": 148,
-    "page_views": 24,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "MX"
-  },
-  {
-    "user_id": "u_053",
-    "session_id": "s_994343",
-    "clicks": 88,
-    "session_time": 245,
-    "page_views": 7,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "JP"
-  },
-  {
-    "user_id": "u_054",
-    "session_id": "s_153266",
-    "clicks": 65,
-    "session_time": 530,
-    "page_views": 29,
-    "purchases": 1,
-    "device": "mobile",
-    "country": "AU"
-  },
-  {
-    "user_id": "u_055",
-    "session_id": "s_237174",
-    "clicks": 12,
-    "session_time": 313,
-    "page_views": 1,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "BR"
-  },
-  {
-    "user_id": "u_056",
-    "session_id": "s_688153",
-    "clicks": 114,
-    "session_time": 195,
-    "page_views": 18,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "UK"
-  },
-  {
-    "user_id": "u_057",
-    "session_id": "s_137778",
-    "clicks": 89,
-    "session_time": 107,
-    "page_views": 29,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "MX"
-  },
-  {
-    "user_id": "u_058",
-    "session_id": "s_423232",
-    "clicks": 38,
-    "session_time": 595,
-    "page_views": 14,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "US"
-  },
-  {
-    "user_id": "u_059",
-    "session_id": "s_207786",
-    "clicks": 54,
-    "session_time": 396,
-    "page_views": 22,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "JP"
-  },
-  {
-    "user_id": "u_060",
-    "session_id": "s_270395",
-    "clicks": 40,
-    "session_time": 446,
-    "page_views": 30,
-    "purchases": 1,
-    "device": "mobile",
-    "country": "AU"
-  },
-  {
-    "user_id": "u_061",
-    "session_id": "s_920391",
-    "clicks": 12,
-    "session_time": 55,
-    "page_views": 12,
-    "purchases": 1,
-    "device": "desktop",
-    "country": "FR"
-  },
-  {
-    "user_id": "u_062",
-    "session_id": "s_501124",
-    "clicks": 41,
-    "session_time": 303,
-    "page_views": 26,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "IN"
-  },
-  {
-    "user_id": "u_063",
-    "session_id": "s_466643",
-    "clicks": 52,
-    "session_time": 257,
-    "page_views": 27,
-    "purchases": 1,
-    "device": "desktop",
-    "country": "FR"
-  },
-  {
-    "user_id": "u_064",
-    "session_id": "s_444207",
-    "clicks": 7,
-    "session_time": 258,
-    "page_views": 6,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "UK"
-  },
-  {
-    "user_id": "u_065",
-    "session_id": "s_812526",
-    "clicks": 90,
-    "session_time": 315,
-    "page_views": 21,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "CA"
-  },
-  {
-    "user_id": "u_066",
-    "session_id": "s_378361",
-    "clicks": 8,
-    "session_time": 58,
-    "page_views": 5,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "UK"
-  },
-  {
-    "user_id": "u_067",
-    "session_id": "s_557592",
-    "clicks": 89,
-    "session_time": 474,
-    "page_views": 24,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "JP"
-  },
-  {
-    "user_id": "u_068",
-    "session_id": "s_367095",
-    "clicks": 99,
-    "session_time": 148,
-    "page_views": 29,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "AU"
-  },
-  {
-    "user_id": "u_069",
-    "session_id": "s_173372",
-    "clicks": 17,
-    "session_time": 31,
-    "page_views": 7,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "CA"
-  },
-  {
-    "user_id": "u_070",
-    "session_id": "s_631756",
-    "clicks": 32,
-    "session_time": 351,
-    "page_views": 24,
-    "purchases": 1,
-    "device": "desktop",
-    "country": "AU"
-  },
-  {
-    "user_id": "u_071",
-    "session_id": "s_233470",
-    "clicks": 104,
-    "session_time": 364,
-    "page_views": 23,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "AU"
-  },
-  {
-    "user_id": "u_072",
-    "session_id": "s_525800",
-    "clicks": 45,
-    "session_time": 418,
-    "page_views": 20,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "US"
-  },
-  {
-    "user_id": "u_073",
-    "session_id": "s_708158",
-    "clicks": 74,
-    "session_time": 341,
-    "page_views": 7,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "CA"
-  },
-  {
-    "user_id": "u_074",
-    "session_id": "s_636004",
-    "clicks": 114,
-    "session_time": 506,
-    "page_views": 15,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "DE"
-  },
-  {
-    "user_id": "u_075",
-    "session_id": "s_749342",
-    "clicks": 37,
-    "session_time": 116,
-    "page_views": 17,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "UK"
-  },
-  {
-    "user_id": "u_076",
-    "session_id": "s_254511",
-    "clicks": 80,
-    "session_time": 270,
-    "page_views": 8,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "US"
-  },
-  {
-    "user_id": "u_077",
-    "session_id": "s_176365",
-    "clicks": 122,
-    "session_time": 280,
-    "page_views": 20,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "AU"
-  },
-  {
-    "user_id": "u_078",
-    "session_id": "s_254739",
-    "clicks": 99,
-    "session_time": 229,
-    "page_views": 16,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "US"
-  },
-  {
-    "user_id": "u_079",
-    "session_id": "s_829716",
-    "clicks": 109,
-    "session_time": 139,
-    "page_views": 8,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "IN"
-  },
-  {
-    "user_id": "u_080",
-    "session_id": "s_227253",
-    "clicks": 72,
-    "session_time": 81,
-    "page_views": 8,
-    "purchases": 1,
-    "device": "desktop",
-    "country": "DE"
-  },
-  {
-    "user_id": "u_081",
-    "session_id": "s_891937",
-    "clicks": 136,
-    "session_time": 505,
-    "page_views": 18,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "MX"
-  },
-  {
-    "user_id": "u_082",
-    "session_id": "s_567574",
-    "clicks": 110,
-    "session_time": 546,
-    "page_views": 27,
-    "purchases": 1,
-    "device": "mobile",
-    "country": "IN"
-  },
-  {
-    "user_id": "u_083",
-    "session_id": "s_768636",
-    "clicks": 67,
-    "session_time": 490,
-    "page_views": 25,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "JP"
-  },
-  {
-    "user_id": "u_084",
-    "session_id": "s_848206",
-    "clicks": 62,
-    "session_time": 526,
-    "page_views": 9,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "FR"
-  },
-  {
-    "user_id": "u_085",
-    "session_id": "s_184491",
-    "clicks": 86,
-    "session_time": 308,
-    "page_views": 11,
-    "purchases": 1,
-    "device": "mobile",
-    "country": "DE"
-  },
-  {
-    "user_id": "u_086",
-    "session_id": "s_324345",
-    "clicks": 99,
-    "session_time": 266,
-    "page_views": 23,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "AU"
-  },
-  {
-    "user_id": "u_087",
-    "session_id": "s_165290",
-    "clicks": 85,
-    "session_time": 447,
-    "page_views": 18,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "AU"
-  },
-  {
-    "user_id": "u_088",
-    "session_id": "s_902784",
-    "clicks": 150,
-    "session_time": 428,
-    "page_views": 23,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "AU"
-  },
-  {
-    "user_id": "u_089",
-    "session_id": "s_508930",
-    "clicks": 2,
-    "session_time": 518,
-    "page_views": 2,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "JP"
-  },
-  {
-    "user_id": "u_090",
-    "session_id": "s_557007",
-    "clicks": 57,
-    "session_time": 589,
-    "page_views": 16,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "US"
-  },
-  {
-    "user_id": "u_091",
-    "session_id": "s_523956",
-    "clicks": 87,
-    "session_time": 428,
-    "page_views": 22,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "DE"
-  },
-  {
-    "user_id": "u_092",
-    "session_id": "s_513160",
-    "clicks": 33,
-    "session_time": 508,
-    "page_views": 20,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "MX"
-  },
-  {
-    "user_id": "u_093",
-    "session_id": "s_584125",
-    "clicks": 6,
-    "session_time": 57,
-    "page_views": 6,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "US"
-  },
-  {
-    "user_id": "u_094",
-    "session_id": "s_442722",
-    "clicks": 98,
-    "session_time": 296,
-    "page_views": 11,
-    "purchases": 0,
-    "device": "desktop",
-    "country": "AU"
-  },
-  {
-    "user_id": "u_095",
-    "session_id": "s_593152",
-    "clicks": 108,
-    "session_time": 314,
-    "page_views": 9,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "JP"
-  },
-  {
-    "user_id": "u_096",
-    "session_id": "s_919182",
-    "clicks": 45,
-    "session_time": 83,
-    "page_views": 8,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "US"
-  },
-  {
-    "user_id": "u_097",
-    "session_id": "s_121369",
-    "clicks": 61,
-    "session_time": 61,
-    "page_views": 8,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "DE"
-  },
-  {
-    "user_id": "u_098",
-    "session_id": "s_691364",
-    "clicks": 33,
-    "session_time": 274,
-    "page_views": 16,
-    "purchases": 0,
-    "device": "mobile",
-    "country": "IN"
-  },
-  {
-    "user_id": "u_099",
-    "session_id": "s_884256",
-    "clicks": 95,
-    "session_time": 292,
-    "page_views": 6,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "UK"
-  },
-  {
-    "user_id": "u_100",
-    "session_id": "s_427110",
-    "clicks": 80,
-    "session_time": 197,
-    "page_views": 4,
-    "purchases": 0,
-    "device": "tablet",
-    "country": "AU"
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T00:00:00Z",
+    "location": "London",
+    "pm25": 28.6,
+    "co2": 498,
+    "no2": 69.1
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T00:05:00Z",
+    "location": "London",
+    "pm25": 18.4,
+    "co2": 512,
+    "no2": 68.8
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T00:10:00Z",
+    "location": "London",
+    "pm25": 29.6,
+    "co2": 609,
+    "no2": 59.3
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T00:15:00Z",
+    "location": "London",
+    "pm25": 27.4,
+    "co2": 499,
+    "no2": 33.5
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T00:20:00Z",
+    "location": "London",
+    "pm25": 17.7,
+    "co2": 559,
+    "no2": 62.1
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T00:25:00Z",
+    "location": "London",
+    "pm25": 26.6,
+    "co2": 586,
+    "no2": 64.5
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T00:30:00Z",
+    "location": "London",
+    "pm25": 26.2,
+    "co2": 523,
+    "no2": 54.5
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T00:35:00Z",
+    "location": "London",
+    "pm25": 19.2,
+    "co2": 606,
+    "no2": 32.3
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T00:40:00Z",
+    "location": "London",
+    "pm25": 33.0,
+    "co2": 584,
+    "no2": 53.1
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T00:45:00Z",
+    "location": "London",
+    "pm25": 19.2,
+    "co2": 522,
+    "no2": 79.9
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T00:50:00Z",
+    "location": "London",
+    "pm25": 20.8,
+    "co2": 506,
+    "no2": 51.0
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T00:55:00Z",
+    "location": "London",
+    "pm25": 21.3,
+    "co2": 539,
+    "no2": 62.2
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T01:00:00Z",
+    "location": "London",
+    "pm25": 33.0,
+    "co2": 588,
+    "no2": 55.0
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T01:05:00Z",
+    "location": "London",
+    "pm25": 15.2,
+    "co2": 613,
+    "no2": 50.9
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T01:10:00Z",
+    "location": "London",
+    "pm25": 26.4,
+    "co2": 601,
+    "no2": 63.4
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T01:15:00Z",
+    "location": "London",
+    "pm25": 35.0,
+    "co2": 541,
+    "no2": 60.9
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T01:20:00Z",
+    "location": "London",
+    "pm25": 30.3,
+    "co2": 500,
+    "no2": 65.1
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T01:25:00Z",
+    "location": "London",
+    "pm25": 32.1,
+    "co2": 505,
+    "no2": 74.8
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T01:30:00Z",
+    "location": "London",
+    "pm25": 34.5,
+    "co2": 543,
+    "no2": 45.9
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T01:35:00Z",
+    "location": "London",
+    "pm25": 28.5,
+    "co2": 541,
+    "no2": 40.1
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T01:40:00Z",
+    "location": "London",
+    "pm25": 21.2,
+    "co2": 580,
+    "no2": 45.3
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T01:45:00Z",
+    "location": "London",
+    "pm25": 36.4,
+    "co2": 577,
+    "no2": 35.6
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T01:50:00Z",
+    "location": "London",
+    "pm25": 28.5,
+    "co2": 563,
+    "no2": 68.5
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T01:55:00Z",
+    "location": "London",
+    "pm25": 16.2,
+    "co2": 543,
+    "no2": 45.5
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T02:00:00Z",
+    "location": "London",
+    "pm25": 36.1,
+    "co2": 583,
+    "no2": 59.8
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T02:05:00Z",
+    "location": "London",
+    "pm25": 29.8,
+    "co2": 602,
+    "no2": 70.4
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T02:10:00Z",
+    "location": "London",
+    "pm25": 13.5,
+    "co2": 600,
+    "no2": 33.6
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T02:15:00Z",
+    "location": "London",
+    "pm25": 20.2,
+    "co2": 529,
+    "no2": 35.3
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T02:20:00Z",
+    "location": "London",
+    "pm25": 35.7,
+    "co2": 567,
+    "no2": 75.8
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T02:25:00Z",
+    "location": "London",
+    "pm25": 20.2,
+    "co2": 578,
+    "no2": 57.0
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T02:30:00Z",
+    "location": "London",
+    "pm25": 35.0,
+    "co2": 577,
+    "no2": 54.9
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T02:35:00Z",
+    "location": "London",
+    "pm25": 18.9,
+    "co2": 526,
+    "no2": 69.2
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T02:40:00Z",
+    "location": "London",
+    "pm25": 26.0,
+    "co2": 590,
+    "no2": 61.2
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T02:45:00Z",
+    "location": "London",
+    "pm25": 35.3,
+    "co2": 546,
+    "no2": 50.1
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T02:50:00Z",
+    "location": "London",
+    "pm25": 37.9,
+    "co2": 512,
+    "no2": 57.5
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T02:55:00Z",
+    "location": "London",
+    "pm25": 14.4,
+    "co2": 501,
+    "no2": 75.1
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T03:00:00Z",
+    "location": "London",
+    "pm25": 16.0,
+    "co2": 515,
+    "no2": 71.6
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T03:05:00Z",
+    "location": "London",
+    "pm25": 23.0,
+    "co2": 503,
+    "no2": 51.2
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T03:10:00Z",
+    "location": "London",
+    "pm25": 27.5,
+    "co2": 554,
+    "no2": 58.5
+  },
+  {
+    "sensor_id": "LON-01",
+    "timestamp": "2024-03-01T03:15:00Z",
+    "location": "London",
+    "pm25": 37.2,
+    "co2": 605,
+    "no2": 79.1
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T00:01:00Z",
+    "location": "London",
+    "pm25": 29.7,
+    "co2": 509,
+    "no2": 66.1
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T00:06:00Z",
+    "location": "London",
+    "pm25": 26.0,
+    "co2": 529,
+    "no2": 70.4
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T00:11:00Z",
+    "location": "London",
+    "pm25": 20.8,
+    "co2": 532,
+    "no2": 53.7
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T00:16:00Z",
+    "location": "London",
+    "pm25": 23.8,
+    "co2": 617,
+    "no2": 68.1
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T00:21:00Z",
+    "location": "London",
+    "pm25": 30.7,
+    "co2": 619,
+    "no2": 57.0
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T00:26:00Z",
+    "location": "London",
+    "pm25": 16.6,
+    "co2": 611,
+    "no2": 37.3
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T00:31:00Z",
+    "location": "London",
+    "pm25": 28.3,
+    "co2": 602,
+    "no2": 63.9
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T00:36:00Z",
+    "location": "London",
+    "pm25": 27.8,
+    "co2": 514,
+    "no2": 50.7
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T00:41:00Z",
+    "location": "London",
+    "pm25": 16.2,
+    "co2": 617,
+    "no2": 70.9
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T00:46:00Z",
+    "location": "London",
+    "pm25": 25.8,
+    "co2": 495,
+    "no2": 61.9
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T00:51:00Z",
+    "location": "London",
+    "pm25": 24.7,
+    "co2": 509,
+    "no2": 78.5
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T00:56:00Z",
+    "location": "London",
+    "pm25": 34.8,
+    "co2": 601,
+    "no2": 72.3
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T01:01:00Z",
+    "location": "London",
+    "pm25": 18.2,
+    "co2": 525,
+    "no2": 75.9
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T01:06:00Z",
+    "location": "London",
+    "pm25": 36.6,
+    "co2": 505,
+    "no2": 68.6
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T01:11:00Z",
+    "location": "London",
+    "pm25": 33.2,
+    "co2": 620,
+    "no2": 70.0
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T01:16:00Z",
+    "location": "London",
+    "pm25": 31.9,
+    "co2": 511,
+    "no2": 65.0
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T01:21:00Z",
+    "location": "London",
+    "pm25": 36.6,
+    "co2": 516,
+    "no2": 45.3
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T01:26:00Z",
+    "location": "London",
+    "pm25": 34.7,
+    "co2": 549,
+    "no2": 80.2
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T01:31:00Z",
+    "location": "London",
+    "pm25": 36.2,
+    "co2": 591,
+    "no2": 68.5
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T01:36:00Z",
+    "location": "London",
+    "pm25": 17.2,
+    "co2": 534,
+    "no2": 51.9
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T01:41:00Z",
+    "location": "London",
+    "pm25": 29.5,
+    "co2": 542,
+    "no2": 53.9
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T01:46:00Z",
+    "location": "London",
+    "pm25": 25.5,
+    "co2": 510,
+    "no2": 44.4
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T01:51:00Z",
+    "location": "London",
+    "pm25": 13.7,
+    "co2": 497,
+    "no2": 61.4
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T01:56:00Z",
+    "location": "London",
+    "pm25": 18.0,
+    "co2": 523,
+    "no2": 32.4
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T02:01:00Z",
+    "location": "London",
+    "pm25": 30.4,
+    "co2": 502,
+    "no2": 43.4
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T02:06:00Z",
+    "location": "London",
+    "pm25": 35.5,
+    "co2": 605,
+    "no2": 48.5
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T02:11:00Z",
+    "location": "London",
+    "pm25": 25.4,
+    "co2": 530,
+    "no2": 65.4
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T02:16:00Z",
+    "location": "London",
+    "pm25": 17.6,
+    "co2": 511,
+    "no2": 68.2
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T02:21:00Z",
+    "location": "London",
+    "pm25": 34.9,
+    "co2": 568,
+    "no2": 55.6
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T02:26:00Z",
+    "location": "London",
+    "pm25": 32.4,
+    "co2": 598,
+    "no2": 52.4
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T02:31:00Z",
+    "location": "London",
+    "pm25": 14.5,
+    "co2": 579,
+    "no2": 53.6
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T02:36:00Z",
+    "location": "London",
+    "pm25": 23.0,
+    "co2": 554,
+    "no2": 75.2
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T02:41:00Z",
+    "location": "London",
+    "pm25": 13.4,
+    "co2": 578,
+    "no2": 81.2
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T02:46:00Z",
+    "location": "London",
+    "pm25": 14.6,
+    "co2": 546,
+    "no2": 68.4
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T02:51:00Z",
+    "location": "London",
+    "pm25": 32.8,
+    "co2": 508,
+    "no2": 44.4
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T02:56:00Z",
+    "location": "London",
+    "pm25": 16.9,
+    "co2": 552,
+    "no2": 39.0
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T03:01:00Z",
+    "location": "London",
+    "pm25": 16.8,
+    "co2": 554,
+    "no2": 44.5
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T03:06:00Z",
+    "location": "London",
+    "pm25": 36.0,
+    "co2": 551,
+    "no2": 72.4
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T03:11:00Z",
+    "location": "London",
+    "pm25": 34.3,
+    "co2": 507,
+    "no2": 34.5
+  },
+  {
+    "sensor_id": "LON-02",
+    "timestamp": "2024-03-01T03:16:00Z",
+    "location": "London",
+    "pm25": 38.0,
+    "co2": 602,
+    "no2": 32.7
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T00:02:00Z",
+    "location": "London",
+    "pm25": 14.4,
+    "co2": 591,
+    "no2": 74.4
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T00:07:00Z",
+    "location": "London",
+    "pm25": 16.3,
+    "co2": 557,
+    "no2": 56.1
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T00:12:00Z",
+    "location": "London",
+    "pm25": 34.5,
+    "co2": 610,
+    "no2": 34.9
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T00:17:00Z",
+    "location": "London",
+    "pm25": 21.9,
+    "co2": 544,
+    "no2": 45.3
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T00:22:00Z",
+    "location": "London",
+    "pm25": 32.4,
+    "co2": 553,
+    "no2": 46.3
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T00:27:00Z",
+    "location": "London",
+    "pm25": 30.1,
+    "co2": 588,
+    "no2": 81.8
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T00:32:00Z",
+    "location": "London",
+    "pm25": 26.4,
+    "co2": 586,
+    "no2": 56.3
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T00:37:00Z",
+    "location": "London",
+    "pm25": 16.9,
+    "co2": 522,
+    "no2": 80.4
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T00:42:00Z",
+    "location": "London",
+    "pm25": 27.1,
+    "co2": 564,
+    "no2": 35.0
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T00:47:00Z",
+    "location": "London",
+    "pm25": 20.2,
+    "co2": 501,
+    "no2": 61.2
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T00:52:00Z",
+    "location": "London",
+    "pm25": 25.1,
+    "co2": 604,
+    "no2": 58.6
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T00:57:00Z",
+    "location": "London",
+    "pm25": 13.5,
+    "co2": 560,
+    "no2": 36.0
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T01:02:00Z",
+    "location": "London",
+    "pm25": 16.8,
+    "co2": 571,
+    "no2": 35.4
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T01:07:00Z",
+    "location": "London",
+    "pm25": 34.4,
+    "co2": 546,
+    "no2": 38.0
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T01:12:00Z",
+    "location": "London",
+    "pm25": 35.1,
+    "co2": 526,
+    "no2": 60.9
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T01:17:00Z",
+    "location": "London",
+    "pm25": 13.0,
+    "co2": 505,
+    "no2": 53.0
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T01:22:00Z",
+    "location": "London",
+    "pm25": 27.2,
+    "co2": 561,
+    "no2": 47.8
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T01:27:00Z",
+    "location": "London",
+    "pm25": 18.8,
+    "co2": 580,
+    "no2": 67.8
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T01:32:00Z",
+    "location": "London",
+    "pm25": 18.2,
+    "co2": 545,
+    "no2": 38.5
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T01:37:00Z",
+    "location": "London",
+    "pm25": 28.8,
+    "co2": 553,
+    "no2": 47.8
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T01:42:00Z",
+    "location": "London",
+    "pm25": 31.5,
+    "co2": 504,
+    "no2": 32.5
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T01:47:00Z",
+    "location": "London",
+    "pm25": 28.2,
+    "co2": 567,
+    "no2": 81.8
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T01:52:00Z",
+    "location": "London",
+    "pm25": 13.9,
+    "co2": 522,
+    "no2": 57.3
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T01:57:00Z",
+    "location": "London",
+    "pm25": 15.4,
+    "co2": 539,
+    "no2": 76.0
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T02:02:00Z",
+    "location": "London",
+    "pm25": 34.9,
+    "co2": 542,
+    "no2": 46.2
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T02:07:00Z",
+    "location": "London",
+    "pm25": 23.4,
+    "co2": 564,
+    "no2": 67.2
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T02:12:00Z",
+    "location": "London",
+    "pm25": 27.9,
+    "co2": 598,
+    "no2": 64.7
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T02:17:00Z",
+    "location": "London",
+    "pm25": 12.2,
+    "co2": 599,
+    "no2": 59.7
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T02:22:00Z",
+    "location": "London",
+    "pm25": 36.2,
+    "co2": 508,
+    "no2": 78.9
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T02:27:00Z",
+    "location": "London",
+    "pm25": 15.5,
+    "co2": 509,
+    "no2": 76.5
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T02:32:00Z",
+    "location": "London",
+    "pm25": 31.3,
+    "co2": 514,
+    "no2": 45.6
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T02:37:00Z",
+    "location": "London",
+    "pm25": 27.7,
+    "co2": 586,
+    "no2": 49.1
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T02:42:00Z",
+    "location": "London",
+    "pm25": 29.9,
+    "co2": 604,
+    "no2": 45.2
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T02:47:00Z",
+    "location": "London",
+    "pm25": 24.7,
+    "co2": 610,
+    "no2": 77.4
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T02:52:00Z",
+    "location": "London",
+    "pm25": 13.3,
+    "co2": 576,
+    "no2": 53.2
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T02:57:00Z",
+    "location": "London",
+    "pm25": 19.2,
+    "co2": 495,
+    "no2": 48.7
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T03:02:00Z",
+    "location": "London",
+    "pm25": 15.4,
+    "co2": 620,
+    "no2": 45.1
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T03:07:00Z",
+    "location": "London",
+    "pm25": 31.3,
+    "co2": 565,
+    "no2": 67.3
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T03:12:00Z",
+    "location": "London",
+    "pm25": 26.6,
+    "co2": 509,
+    "no2": 35.8
+  },
+  {
+    "sensor_id": "LON-03",
+    "timestamp": "2024-03-01T03:17:00Z",
+    "location": "London",
+    "pm25": 35.0,
+    "co2": 610,
+    "no2": 39.5
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T00:03:00Z",
+    "location": "London",
+    "pm25": 12.9,
+    "co2": 542,
+    "no2": 61.1
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T00:08:00Z",
+    "location": "London",
+    "pm25": 15.9,
+    "co2": 511,
+    "no2": 34.1
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T00:13:00Z",
+    "location": "London",
+    "pm25": 21.5,
+    "co2": 614,
+    "no2": 71.8
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T00:18:00Z",
+    "location": "London",
+    "pm25": 34.4,
+    "co2": 610,
+    "no2": 49.9
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T00:23:00Z",
+    "location": "London",
+    "pm25": 29.7,
+    "co2": 580,
+    "no2": 37.1
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T00:28:00Z",
+    "location": "London",
+    "pm25": 32.3,
+    "co2": 608,
+    "no2": 75.7
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T00:33:00Z",
+    "location": "London",
+    "pm25": 37.3,
+    "co2": 590,
+    "no2": 39.7
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T00:38:00Z",
+    "location": "London",
+    "pm25": 36.2,
+    "co2": 605,
+    "no2": 40.1
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T00:43:00Z",
+    "location": "London",
+    "pm25": 32.8,
+    "co2": 517,
+    "no2": 76.1
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T00:48:00Z",
+    "location": "London",
+    "pm25": 12.6,
+    "co2": 589,
+    "no2": 78.2
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T00:53:00Z",
+    "location": "London",
+    "pm25": 32.3,
+    "co2": 547,
+    "no2": 72.1
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T00:58:00Z",
+    "location": "London",
+    "pm25": 34.5,
+    "co2": 598,
+    "no2": 44.4
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T01:03:00Z",
+    "location": "London",
+    "pm25": 16.1,
+    "co2": 584,
+    "no2": 37.4
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T01:08:00Z",
+    "location": "London",
+    "pm25": 34.7,
+    "co2": 604,
+    "no2": 55.5
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T01:13:00Z",
+    "location": "London",
+    "pm25": 17.2,
+    "co2": 612,
+    "no2": 55.0
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T01:18:00Z",
+    "location": "London",
+    "pm25": 19.9,
+    "co2": 596,
+    "no2": 75.6
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T01:23:00Z",
+    "location": "London",
+    "pm25": 17.8,
+    "co2": 579,
+    "no2": 41.7
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T01:28:00Z",
+    "location": "London",
+    "pm25": 20.5,
+    "co2": 605,
+    "no2": 35.5
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T01:33:00Z",
+    "location": "London",
+    "pm25": 32.1,
+    "co2": 539,
+    "no2": 64.1
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T01:38:00Z",
+    "location": "London",
+    "pm25": 22.4,
+    "co2": 620,
+    "no2": 74.2
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T01:43:00Z",
+    "location": "London",
+    "pm25": 20.6,
+    "co2": 498,
+    "no2": 37.8
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T01:48:00Z",
+    "location": "London",
+    "pm25": 37.2,
+    "co2": 517,
+    "no2": 61.0
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T01:53:00Z",
+    "location": "London",
+    "pm25": 37.6,
+    "co2": 499,
+    "no2": 37.4
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T01:58:00Z",
+    "location": "London",
+    "pm25": 23.3,
+    "co2": 588,
+    "no2": 71.3
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T02:03:00Z",
+    "location": "London",
+    "pm25": 23.3,
+    "co2": 620,
+    "no2": 57.6
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T02:08:00Z",
+    "location": "London",
+    "pm25": 22.0,
+    "co2": 568,
+    "no2": 41.5
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T02:13:00Z",
+    "location": "London",
+    "pm25": 13.2,
+    "co2": 550,
+    "no2": 32.1
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T02:18:00Z",
+    "location": "London",
+    "pm25": 36.1,
+    "co2": 563,
+    "no2": 66.3
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T02:23:00Z",
+    "location": "London",
+    "pm25": 36.4,
+    "co2": 589,
+    "no2": 65.5
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T02:28:00Z",
+    "location": "London",
+    "pm25": 21.5,
+    "co2": 503,
+    "no2": 79.4
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T02:33:00Z",
+    "location": "London",
+    "pm25": 35.9,
+    "co2": 574,
+    "no2": 47.7
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T02:38:00Z",
+    "location": "London",
+    "pm25": 34.0,
+    "co2": 587,
+    "no2": 77.0
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T02:43:00Z",
+    "location": "London",
+    "pm25": 25.2,
+    "co2": 580,
+    "no2": 52.4
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T02:48:00Z",
+    "location": "London",
+    "pm25": 22.5,
+    "co2": 532,
+    "no2": 59.7
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T02:53:00Z",
+    "location": "London",
+    "pm25": 17.0,
+    "co2": 580,
+    "no2": 79.0
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T02:58:00Z",
+    "location": "London",
+    "pm25": 29.6,
+    "co2": 610,
+    "no2": 40.7
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T03:03:00Z",
+    "location": "London",
+    "pm25": 26.8,
+    "co2": 546,
+    "no2": 59.4
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T03:08:00Z",
+    "location": "London",
+    "pm25": 12.0,
+    "co2": 531,
+    "no2": 42.5
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T03:13:00Z",
+    "location": "London",
+    "pm25": 32.4,
+    "co2": 572,
+    "no2": 64.7
+  },
+  {
+    "sensor_id": "LON-04",
+    "timestamp": "2024-03-01T03:18:00Z",
+    "location": "London",
+    "pm25": 24.1,
+    "co2": 551,
+    "no2": 65.8
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T00:04:00Z",
+    "location": "London",
+    "pm25": 25.3,
+    "co2": 596,
+    "no2": 77.1
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T00:09:00Z",
+    "location": "London",
+    "pm25": 32.7,
+    "co2": 516,
+    "no2": 64.9
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T00:14:00Z",
+    "location": "London",
+    "pm25": 19.4,
+    "co2": 579,
+    "no2": 63.6
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T00:19:00Z",
+    "location": "London",
+    "pm25": 20.7,
+    "co2": 599,
+    "no2": 79.6
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T00:24:00Z",
+    "location": "London",
+    "pm25": 18.1,
+    "co2": 534,
+    "no2": 43.2
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T00:29:00Z",
+    "location": "London",
+    "pm25": 17.2,
+    "co2": 498,
+    "no2": 34.3
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T00:34:00Z",
+    "location": "London",
+    "pm25": 37.6,
+    "co2": 573,
+    "no2": 74.5
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T00:39:00Z",
+    "location": "London",
+    "pm25": 13.9,
+    "co2": 548,
+    "no2": 76.3
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T00:44:00Z",
+    "location": "London",
+    "pm25": 27.0,
+    "co2": 586,
+    "no2": 66.8
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T00:49:00Z",
+    "location": "London",
+    "pm25": 24.9,
+    "co2": 526,
+    "no2": 39.4
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T00:54:00Z",
+    "location": "London",
+    "pm25": 29.9,
+    "co2": 609,
+    "no2": 69.5
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T00:59:00Z",
+    "location": "London",
+    "pm25": 32.0,
+    "co2": 508,
+    "no2": 70.9
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T01:04:00Z",
+    "location": "London",
+    "pm25": 17.7,
+    "co2": 597,
+    "no2": 79.9
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T01:09:00Z",
+    "location": "London",
+    "pm25": 25.5,
+    "co2": 501,
+    "no2": 59.9
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T01:14:00Z",
+    "location": "London",
+    "pm25": 35.9,
+    "co2": 510,
+    "no2": 54.8
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T01:19:00Z",
+    "location": "London",
+    "pm25": 32.8,
+    "co2": 580,
+    "no2": 58.6
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T01:24:00Z",
+    "location": "London",
+    "pm25": 26.5,
+    "co2": 535,
+    "no2": 79.5
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T01:29:00Z",
+    "location": "London",
+    "pm25": 35.2,
+    "co2": 573,
+    "no2": 72.8
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T01:34:00Z",
+    "location": "London",
+    "pm25": 35.2,
+    "co2": 549,
+    "no2": 73.5
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T01:39:00Z",
+    "location": "London",
+    "pm25": 26.2,
+    "co2": 609,
+    "no2": 40.0
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T01:44:00Z",
+    "location": "London",
+    "pm25": 34.4,
+    "co2": 552,
+    "no2": 45.0
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T01:49:00Z",
+    "location": "London",
+    "pm25": 18.4,
+    "co2": 576,
+    "no2": 45.9
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T01:54:00Z",
+    "location": "London",
+    "pm25": 32.2,
+    "co2": 557,
+    "no2": 63.3
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T01:59:00Z",
+    "location": "London",
+    "pm25": 19.1,
+    "co2": 504,
+    "no2": 67.7
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T02:04:00Z",
+    "location": "London",
+    "pm25": 18.1,
+    "co2": 537,
+    "no2": 48.0
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T02:09:00Z",
+    "location": "London",
+    "pm25": 26.0,
+    "co2": 512,
+    "no2": 39.5
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T02:14:00Z",
+    "location": "London",
+    "pm25": 22.0,
+    "co2": 514,
+    "no2": 67.3
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T02:19:00Z",
+    "location": "London",
+    "pm25": 13.7,
+    "co2": 547,
+    "no2": 48.5
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T02:24:00Z",
+    "location": "London",
+    "pm25": 24.1,
+    "co2": 502,
+    "no2": 42.3
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T02:29:00Z",
+    "location": "London",
+    "pm25": 22.9,
+    "co2": 610,
+    "no2": 70.5
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T02:34:00Z",
+    "location": "London",
+    "pm25": 36.6,
+    "co2": 497,
+    "no2": 74.8
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T02:39:00Z",
+    "location": "London",
+    "pm25": 31.9,
+    "co2": 543,
+    "no2": 55.8
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T02:44:00Z",
+    "location": "London",
+    "pm25": 36.5,
+    "co2": 533,
+    "no2": 69.7
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T02:49:00Z",
+    "location": "London",
+    "pm25": 34.2,
+    "co2": 617,
+    "no2": 73.8
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T02:54:00Z",
+    "location": "London",
+    "pm25": 26.0,
+    "co2": 589,
+    "no2": 59.3
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T02:59:00Z",
+    "location": "London",
+    "pm25": 27.7,
+    "co2": 523,
+    "no2": 56.4
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T03:04:00Z",
+    "location": "London",
+    "pm25": 19.1,
+    "co2": 557,
+    "no2": 33.5
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T03:09:00Z",
+    "location": "London",
+    "pm25": 20.7,
+    "co2": 581,
+    "no2": 71.9
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T03:14:00Z",
+    "location": "London",
+    "pm25": 30.8,
+    "co2": 602,
+    "no2": 55.4
+  },
+  {
+    "sensor_id": "LON-05",
+    "timestamp": "2024-03-01T03:19:00Z",
+    "location": "London",
+    "pm25": 15.3,
+    "co2": 574,
+    "no2": 58.7
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T00:00:00Z",
+    "location": "Paris",
+    "pm25": 51.9,
+    "co2": 696,
+    "no2": 90.6
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T00:05:00Z",
+    "location": "Paris",
+    "pm25": 22.9,
+    "co2": 709,
+    "no2": 82.0
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T00:10:00Z",
+    "location": "Paris",
+    "pm25": 50.6,
+    "co2": 591,
+    "no2": 58.2
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T00:15:00Z",
+    "location": "Paris",
+    "pm25": 34.5,
+    "co2": 599,
+    "no2": 83.6
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T00:20:00Z",
+    "location": "Paris",
+    "pm25": 33.1,
+    "co2": 642,
+    "no2": 72.5
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T00:25:00Z",
+    "location": "Paris",
+    "pm25": 53.4,
+    "co2": 652,
+    "no2": 70.9
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T00:30:00Z",
+    "location": "Paris",
+    "pm25": 24.7,
+    "co2": 549,
+    "no2": 102.2
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T00:35:00Z",
+    "location": "Paris",
+    "pm25": 23.7,
+    "co2": 634,
+    "no2": 69.1
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T00:40:00Z",
+    "location": "Paris",
+    "pm25": 24.3,
+    "co2": 711,
+    "no2": 57.5
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T00:45:00Z",
+    "location": "Paris",
+    "pm25": 23.0,
+    "co2": 608,
+    "no2": 67.6
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T00:50:00Z",
+    "location": "Paris",
+    "pm25": 22.7,
+    "co2": 584,
+    "no2": 70.0
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T00:55:00Z",
+    "location": "Paris",
+    "pm25": 37.6,
+    "co2": 574,
+    "no2": 90.5
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T01:00:00Z",
+    "location": "Paris",
+    "pm25": 29.2,
+    "co2": 610,
+    "no2": 103.3
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T01:05:00Z",
+    "location": "Paris",
+    "pm25": 27.5,
+    "co2": 700,
+    "no2": 115.7
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T01:10:00Z",
+    "location": "Paris",
+    "pm25": 45.7,
+    "co2": 586,
+    "no2": 115.8
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T01:15:00Z",
+    "location": "Paris",
+    "pm25": 25.6,
+    "co2": 551,
+    "no2": 113.5
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T01:20:00Z",
+    "location": "Paris",
+    "pm25": 41.0,
+    "co2": 641,
+    "no2": 80.0
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T01:25:00Z",
+    "location": "Paris",
+    "pm25": 45.6,
+    "co2": 564,
+    "no2": 92.3
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T01:30:00Z",
+    "location": "Paris",
+    "pm25": 49.4,
+    "co2": 607,
+    "no2": 61.4
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T01:35:00Z",
+    "location": "Paris",
+    "pm25": 47.5,
+    "co2": 698,
+    "no2": 105.7
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T01:40:00Z",
+    "location": "Paris",
+    "pm25": 48.3,
+    "co2": 689,
+    "no2": 104.3
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T01:45:00Z",
+    "location": "Paris",
+    "pm25": 33.5,
+    "co2": 654,
+    "no2": 96.7
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T01:50:00Z",
+    "location": "Paris",
+    "pm25": 24.3,
+    "co2": 710,
+    "no2": 76.5
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T01:55:00Z",
+    "location": "Paris",
+    "pm25": 50.0,
+    "co2": 670,
+    "no2": 61.6
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T02:00:00Z",
+    "location": "Paris",
+    "pm25": 53.7,
+    "co2": 707,
+    "no2": 111.2
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T02:05:00Z",
+    "location": "Paris",
+    "pm25": 37.2,
+    "co2": 584,
+    "no2": 82.4
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T02:10:00Z",
+    "location": "Paris",
+    "pm25": 46.2,
+    "co2": 711,
+    "no2": 72.0
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T02:15:00Z",
+    "location": "Paris",
+    "pm25": 48.7,
+    "co2": 682,
+    "no2": 103.8
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T02:20:00Z",
+    "location": "Paris",
+    "pm25": 37.3,
+    "co2": 696,
+    "no2": 71.9
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T02:25:00Z",
+    "location": "Paris",
+    "pm25": 50.1,
+    "co2": 567,
+    "no2": 72.6
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T02:30:00Z",
+    "location": "Paris",
+    "pm25": 36.9,
+    "co2": 663,
+    "no2": 90.9
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T02:35:00Z",
+    "location": "Paris",
+    "pm25": 44.1,
+    "co2": 631,
+    "no2": 56.8
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T02:40:00Z",
+    "location": "Paris",
+    "pm25": 50.1,
+    "co2": 591,
+    "no2": 85.7
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T02:45:00Z",
+    "location": "Paris",
+    "pm25": 33.7,
+    "co2": 611,
+    "no2": 76.4
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T02:50:00Z",
+    "location": "Paris",
+    "pm25": 51.1,
+    "co2": 615,
+    "no2": 90.0
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T02:55:00Z",
+    "location": "Paris",
+    "pm25": 39.0,
+    "co2": 593,
+    "no2": 60.4
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T03:00:00Z",
+    "location": "Paris",
+    "pm25": 45.8,
+    "co2": 670,
+    "no2": 90.0
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T03:05:00Z",
+    "location": "Paris",
+    "pm25": 29.9,
+    "co2": 666,
+    "no2": 95.7
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T03:10:00Z",
+    "location": "Paris",
+    "pm25": 38.2,
+    "co2": 549,
+    "no2": 60.9
+  },
+  {
+    "sensor_id": "PAR-01",
+    "timestamp": "2024-03-01T03:15:00Z",
+    "location": "Paris",
+    "pm25": 29.3,
+    "co2": 607,
+    "no2": 74.3
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T00:01:00Z",
+    "location": "Paris",
+    "pm25": 41.2,
+    "co2": 666,
+    "no2": 89.9
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T00:06:00Z",
+    "location": "Paris",
+    "pm25": 33.3,
+    "co2": 685,
+    "no2": 75.8
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T00:11:00Z",
+    "location": "Paris",
+    "pm25": 45.2,
+    "co2": 614,
+    "no2": 74.3
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T00:16:00Z",
+    "location": "Paris",
+    "pm25": 29.6,
+    "co2": 594,
+    "no2": 74.9
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T00:21:00Z",
+    "location": "Paris",
+    "pm25": 46.5,
+    "co2": 592,
+    "no2": 67.1
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T00:26:00Z",
+    "location": "Paris",
+    "pm25": 46.4,
+    "co2": 615,
+    "no2": 100.6
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T00:31:00Z",
+    "location": "Paris",
+    "pm25": 54.2,
+    "co2": 679,
+    "no2": 92.6
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T00:36:00Z",
+    "location": "Paris",
+    "pm25": 54.4,
+    "co2": 594,
+    "no2": 73.7
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T00:41:00Z",
+    "location": "Paris",
+    "pm25": 33.9,
+    "co2": 622,
+    "no2": 55.9
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T00:46:00Z",
+    "location": "Paris",
+    "pm25": 39.6,
+    "co2": 615,
+    "no2": 57.9
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T00:51:00Z",
+    "location": "Paris",
+    "pm25": 23.8,
+    "co2": 619,
+    "no2": 98.9
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T00:56:00Z",
+    "location": "Paris",
+    "pm25": 26.2,
+    "co2": 670,
+    "no2": 61.5
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T01:01:00Z",
+    "location": "Paris",
+    "pm25": 22.4,
+    "co2": 617,
+    "no2": 84.6
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T01:06:00Z",
+    "location": "Paris",
+    "pm25": 36.5,
+    "co2": 592,
+    "no2": 115.8
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T01:11:00Z",
+    "location": "Paris",
+    "pm25": 30.3,
+    "co2": 667,
+    "no2": 62.2
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T01:16:00Z",
+    "location": "Paris",
+    "pm25": 24.2,
+    "co2": 670,
+    "no2": 59.7
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T01:21:00Z",
+    "location": "Paris",
+    "pm25": 42.8,
+    "co2": 558,
+    "no2": 64.6
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T01:26:00Z",
+    "location": "Paris",
+    "pm25": 48.8,
+    "co2": 622,
+    "no2": 60.4
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T01:31:00Z",
+    "location": "Paris",
+    "pm25": 30.2,
+    "co2": 687,
+    "no2": 103.2
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T01:36:00Z",
+    "location": "Paris",
+    "pm25": 42.0,
+    "co2": 703,
+    "no2": 69.2
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T01:41:00Z",
+    "location": "Paris",
+    "pm25": 39.2,
+    "co2": 660,
+    "no2": 112.2
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T01:46:00Z",
+    "location": "Paris",
+    "pm25": 31.8,
+    "co2": 695,
+    "no2": 117.4
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T01:51:00Z",
+    "location": "Paris",
+    "pm25": 32.1,
+    "co2": 703,
+    "no2": 58.8
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T01:56:00Z",
+    "location": "Paris",
+    "pm25": 53.7,
+    "co2": 570,
+    "no2": 114.7
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T02:01:00Z",
+    "location": "Paris",
+    "pm25": 28.9,
+    "co2": 599,
+    "no2": 71.7
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T02:06:00Z",
+    "location": "Paris",
+    "pm25": 24.7,
+    "co2": 606,
+    "no2": 66.0
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T02:11:00Z",
+    "location": "Paris",
+    "pm25": 24.5,
+    "co2": 545,
+    "no2": 80.7
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T02:16:00Z",
+    "location": "Paris",
+    "pm25": 44.7,
+    "co2": 665,
+    "no2": 73.3
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T02:21:00Z",
+    "location": "Paris",
+    "pm25": 29.6,
+    "co2": 617,
+    "no2": 99.3
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T02:26:00Z",
+    "location": "Paris",
+    "pm25": 37.0,
+    "co2": 604,
+    "no2": 113.2
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T02:31:00Z",
+    "location": "Paris",
+    "pm25": 48.0,
+    "co2": 705,
+    "no2": 92.2
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T02:36:00Z",
+    "location": "Paris",
+    "pm25": 48.5,
+    "co2": 595,
+    "no2": 81.8
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T02:41:00Z",
+    "location": "Paris",
+    "pm25": 40.0,
+    "co2": 710,
+    "no2": 64.4
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T02:46:00Z",
+    "location": "Paris",
+    "pm25": 30.8,
+    "co2": 581,
+    "no2": 59.5
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T02:51:00Z",
+    "location": "Paris",
+    "pm25": 27.5,
+    "co2": 623,
+    "no2": 92.5
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T02:56:00Z",
+    "location": "Paris",
+    "pm25": 49.2,
+    "co2": 618,
+    "no2": 82.7
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T03:01:00Z",
+    "location": "Paris",
+    "pm25": 37.5,
+    "co2": 622,
+    "no2": 99.1
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T03:06:00Z",
+    "location": "Paris",
+    "pm25": 53.1,
+    "co2": 673,
+    "no2": 89.0
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T03:11:00Z",
+    "location": "Paris",
+    "pm25": 36.4,
+    "co2": 698,
+    "no2": 57.5
+  },
+  {
+    "sensor_id": "PAR-02",
+    "timestamp": "2024-03-01T03:16:00Z",
+    "location": "Paris",
+    "pm25": 36.3,
+    "co2": 627,
+    "no2": 93.0
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T00:02:00Z",
+    "location": "Paris",
+    "pm25": 22.9,
+    "co2": 603,
+    "no2": 115.6
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T00:07:00Z",
+    "location": "Paris",
+    "pm25": 49.6,
+    "co2": 692,
+    "no2": 92.0
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T00:12:00Z",
+    "location": "Paris",
+    "pm25": 22.7,
+    "co2": 613,
+    "no2": 91.3
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T00:17:00Z",
+    "location": "Paris",
+    "pm25": 47.2,
+    "co2": 589,
+    "no2": 84.6
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T00:22:00Z",
+    "location": "Paris",
+    "pm25": 43.5,
+    "co2": 616,
+    "no2": 66.4
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T00:27:00Z",
+    "location": "Paris",
+    "pm25": 41.3,
+    "co2": 707,
+    "no2": 106.3
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T00:32:00Z",
+    "location": "Paris",
+    "pm25": 54.0,
+    "co2": 665,
+    "no2": 76.9
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T00:37:00Z",
+    "location": "Paris",
+    "pm25": 33.0,
+    "co2": 571,
+    "no2": 109.0
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T00:42:00Z",
+    "location": "Paris",
+    "pm25": 32.9,
+    "co2": 671,
+    "no2": 73.2
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T00:47:00Z",
+    "location": "Paris",
+    "pm25": 53.2,
+    "co2": 685,
+    "no2": 57.3
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T00:52:00Z",
+    "location": "Paris",
+    "pm25": 24.9,
+    "co2": 609,
+    "no2": 75.4
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T00:57:00Z",
+    "location": "Paris",
+    "pm25": 54.0,
+    "co2": 648,
+    "no2": 109.5
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T01:02:00Z",
+    "location": "Paris",
+    "pm25": 49.2,
+    "co2": 545,
+    "no2": 96.4
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T01:07:00Z",
+    "location": "Paris",
+    "pm25": 39.9,
+    "co2": 650,
+    "no2": 58.4
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T01:12:00Z",
+    "location": "Paris",
+    "pm25": 39.1,
+    "co2": 704,
+    "no2": 102.7
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T01:17:00Z",
+    "location": "Paris",
+    "pm25": 42.6,
+    "co2": 558,
+    "no2": 67.8
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T01:22:00Z",
+    "location": "Paris",
+    "pm25": 40.1,
+    "co2": 618,
+    "no2": 82.6
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T01:27:00Z",
+    "location": "Paris",
+    "pm25": 45.0,
+    "co2": 576,
+    "no2": 56.8
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T01:32:00Z",
+    "location": "Paris",
+    "pm25": 42.8,
+    "co2": 606,
+    "no2": 99.7
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T01:37:00Z",
+    "location": "Paris",
+    "pm25": 32.3,
+    "co2": 548,
+    "no2": 89.8
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T01:42:00Z",
+    "location": "Paris",
+    "pm25": 25.1,
+    "co2": 574,
+    "no2": 84.1
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T01:47:00Z",
+    "location": "Paris",
+    "pm25": 25.9,
+    "co2": 584,
+    "no2": 86.4
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T01:52:00Z",
+    "location": "Paris",
+    "pm25": 45.6,
+    "co2": 675,
+    "no2": 99.4
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T01:57:00Z",
+    "location": "Paris",
+    "pm25": 35.7,
+    "co2": 668,
+    "no2": 116.8
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T02:02:00Z",
+    "location": "Paris",
+    "pm25": 30.0,
+    "co2": 686,
+    "no2": 64.1
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T02:07:00Z",
+    "location": "Paris",
+    "pm25": 28.3,
+    "co2": 698,
+    "no2": 87.0
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T02:12:00Z",
+    "location": "Paris",
+    "pm25": 51.0,
+    "co2": 562,
+    "no2": 72.4
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T02:17:00Z",
+    "location": "Paris",
+    "pm25": 48.1,
+    "co2": 651,
+    "no2": 76.4
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T02:22:00Z",
+    "location": "Paris",
+    "pm25": 48.0,
+    "co2": 613,
+    "no2": 106.7
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T02:27:00Z",
+    "location": "Paris",
+    "pm25": 31.3,
+    "co2": 621,
+    "no2": 107.8
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T02:32:00Z",
+    "location": "Paris",
+    "pm25": 41.1,
+    "co2": 713,
+    "no2": 85.8
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T02:37:00Z",
+    "location": "Paris",
+    "pm25": 26.9,
+    "co2": 682,
+    "no2": 85.5
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T02:42:00Z",
+    "location": "Paris",
+    "pm25": 33.0,
+    "co2": 684,
+    "no2": 78.8
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T02:47:00Z",
+    "location": "Paris",
+    "pm25": 52.8,
+    "co2": 593,
+    "no2": 116.8
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T02:52:00Z",
+    "location": "Paris",
+    "pm25": 29.9,
+    "co2": 643,
+    "no2": 69.7
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T02:57:00Z",
+    "location": "Paris",
+    "pm25": 47.6,
+    "co2": 556,
+    "no2": 75.0
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T03:02:00Z",
+    "location": "Paris",
+    "pm25": 37.6,
+    "co2": 642,
+    "no2": 79.3
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T03:07:00Z",
+    "location": "Paris",
+    "pm25": 43.9,
+    "co2": 711,
+    "no2": 116.8
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T03:12:00Z",
+    "location": "Paris",
+    "pm25": 38.3,
+    "co2": 554,
+    "no2": 63.0
+  },
+  {
+    "sensor_id": "PAR-03",
+    "timestamp": "2024-03-01T03:17:00Z",
+    "location": "Paris",
+    "pm25": 53.9,
+    "co2": 629,
+    "no2": 109.8
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T00:03:00Z",
+    "location": "Paris",
+    "pm25": 50.8,
+    "co2": 657,
+    "no2": 61.3
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T00:08:00Z",
+    "location": "Paris",
+    "pm25": 52.0,
+    "co2": 548,
+    "no2": 100.5
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T00:13:00Z",
+    "location": "Paris",
+    "pm25": 35.5,
+    "co2": 712,
+    "no2": 116.1
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T00:18:00Z",
+    "location": "Paris",
+    "pm25": 24.5,
+    "co2": 612,
+    "no2": 76.3
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T00:23:00Z",
+    "location": "Paris",
+    "pm25": 44.9,
+    "co2": 711,
+    "no2": 60.1
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T00:28:00Z",
+    "location": "Paris",
+    "pm25": 32.8,
+    "co2": 681,
+    "no2": 78.9
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T00:33:00Z",
+    "location": "Paris",
+    "pm25": 32.4,
+    "co2": 669,
+    "no2": 110.0
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T00:38:00Z",
+    "location": "Paris",
+    "pm25": 23.2,
+    "co2": 562,
+    "no2": 69.8
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T00:43:00Z",
+    "location": "Paris",
+    "pm25": 44.6,
+    "co2": 618,
+    "no2": 117.8
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T00:48:00Z",
+    "location": "Paris",
+    "pm25": 46.6,
+    "co2": 656,
+    "no2": 116.6
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T00:53:00Z",
+    "location": "Paris",
+    "pm25": 47.1,
+    "co2": 570,
+    "no2": 83.0
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T00:58:00Z",
+    "location": "Paris",
+    "pm25": 44.9,
+    "co2": 552,
+    "no2": 57.9
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T01:03:00Z",
+    "location": "Paris",
+    "pm25": 48.3,
+    "co2": 620,
+    "no2": 77.6
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T01:08:00Z",
+    "location": "Paris",
+    "pm25": 36.2,
+    "co2": 607,
+    "no2": 88.5
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T01:13:00Z",
+    "location": "Paris",
+    "pm25": 40.7,
+    "co2": 591,
+    "no2": 65.7
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T01:18:00Z",
+    "location": "Paris",
+    "pm25": 24.6,
+    "co2": 642,
+    "no2": 94.0
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T01:23:00Z",
+    "location": "Paris",
+    "pm25": 29.9,
+    "co2": 694,
+    "no2": 64.0
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T01:28:00Z",
+    "location": "Paris",
+    "pm25": 37.2,
+    "co2": 610,
+    "no2": 84.0
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T01:33:00Z",
+    "location": "Paris",
+    "pm25": 44.0,
+    "co2": 664,
+    "no2": 111.8
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T01:38:00Z",
+    "location": "Paris",
+    "pm25": 44.4,
+    "co2": 585,
+    "no2": 59.7
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T01:43:00Z",
+    "location": "Paris",
+    "pm25": 53.2,
+    "co2": 695,
+    "no2": 73.8
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T01:48:00Z",
+    "location": "Paris",
+    "pm25": 53.7,
+    "co2": 609,
+    "no2": 83.8
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T01:53:00Z",
+    "location": "Paris",
+    "pm25": 32.0,
+    "co2": 643,
+    "no2": 108.8
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T01:58:00Z",
+    "location": "Paris",
+    "pm25": 25.5,
+    "co2": 642,
+    "no2": 91.0
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T02:03:00Z",
+    "location": "Paris",
+    "pm25": 41.0,
+    "co2": 620,
+    "no2": 56.4
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T02:08:00Z",
+    "location": "Paris",
+    "pm25": 49.4,
+    "co2": 646,
+    "no2": 72.3
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T02:13:00Z",
+    "location": "Paris",
+    "pm25": 40.7,
+    "co2": 557,
+    "no2": 112.4
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T02:18:00Z",
+    "location": "Paris",
+    "pm25": 46.6,
+    "co2": 618,
+    "no2": 103.9
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T02:23:00Z",
+    "location": "Paris",
+    "pm25": 29.6,
+    "co2": 635,
+    "no2": 68.8
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T02:28:00Z",
+    "location": "Paris",
+    "pm25": 28.3,
+    "co2": 609,
+    "no2": 97.7
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T02:33:00Z",
+    "location": "Paris",
+    "pm25": 45.8,
+    "co2": 713,
+    "no2": 97.9
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T02:38:00Z",
+    "location": "Paris",
+    "pm25": 26.5,
+    "co2": 569,
+    "no2": 111.9
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T02:43:00Z",
+    "location": "Paris",
+    "pm25": 43.3,
+    "co2": 624,
+    "no2": 104.7
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T02:48:00Z",
+    "location": "Paris",
+    "pm25": 23.1,
+    "co2": 638,
+    "no2": 101.1
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T02:53:00Z",
+    "location": "Paris",
+    "pm25": 25.0,
+    "co2": 620,
+    "no2": 75.6
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T02:58:00Z",
+    "location": "Paris",
+    "pm25": 35.7,
+    "co2": 596,
+    "no2": 63.3
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T03:03:00Z",
+    "location": "Paris",
+    "pm25": 39.8,
+    "co2": 638,
+    "no2": 88.4
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T03:08:00Z",
+    "location": "Paris",
+    "pm25": 52.1,
+    "co2": 587,
+    "no2": 71.2
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T03:13:00Z",
+    "location": "Paris",
+    "pm25": 49.2,
+    "co2": 668,
+    "no2": 115.9
+  },
+  {
+    "sensor_id": "PAR-04",
+    "timestamp": "2024-03-01T03:18:00Z",
+    "location": "Paris",
+    "pm25": 31.7,
+    "co2": 631,
+    "no2": 105.7
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T00:04:00Z",
+    "location": "Paris",
+    "pm25": 37.5,
+    "co2": 564,
+    "no2": 63.9
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T00:09:00Z",
+    "location": "Paris",
+    "pm25": 53.9,
+    "co2": 646,
+    "no2": 115.9
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T00:14:00Z",
+    "location": "Paris",
+    "pm25": 48.6,
+    "co2": 638,
+    "no2": 60.7
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T00:19:00Z",
+    "location": "Paris",
+    "pm25": 35.0,
+    "co2": 612,
+    "no2": 88.8
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T00:24:00Z",
+    "location": "Paris",
+    "pm25": 37.0,
+    "co2": 612,
+    "no2": 91.8
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T00:29:00Z",
+    "location": "Paris",
+    "pm25": 49.1,
+    "co2": 640,
+    "no2": 61.8
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T00:34:00Z",
+    "location": "Paris",
+    "pm25": 29.7,
+    "co2": 551,
+    "no2": 94.0
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T00:39:00Z",
+    "location": "Paris",
+    "pm25": 53.1,
+    "co2": 628,
+    "no2": 112.7
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T00:44:00Z",
+    "location": "Paris",
+    "pm25": 29.3,
+    "co2": 561,
+    "no2": 95.0
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T00:49:00Z",
+    "location": "Paris",
+    "pm25": 37.3,
+    "co2": 622,
+    "no2": 95.9
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T00:54:00Z",
+    "location": "Paris",
+    "pm25": 25.9,
+    "co2": 556,
+    "no2": 114.6
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T00:59:00Z",
+    "location": "Paris",
+    "pm25": 32.0,
+    "co2": 671,
+    "no2": 62.3
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T01:04:00Z",
+    "location": "Paris",
+    "pm25": 29.7,
+    "co2": 682,
+    "no2": 63.5
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T01:09:00Z",
+    "location": "Paris",
+    "pm25": 37.0,
+    "co2": 683,
+    "no2": 81.4
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T01:14:00Z",
+    "location": "Paris",
+    "pm25": 46.5,
+    "co2": 584,
+    "no2": 110.8
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T01:19:00Z",
+    "location": "Paris",
+    "pm25": 43.6,
+    "co2": 670,
+    "no2": 93.8
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T01:24:00Z",
+    "location": "Paris",
+    "pm25": 53.0,
+    "co2": 616,
+    "no2": 57.1
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T01:29:00Z",
+    "location": "Paris",
+    "pm25": 34.2,
+    "co2": 658,
+    "no2": 83.0
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T01:34:00Z",
+    "location": "Paris",
+    "pm25": 29.8,
+    "co2": 637,
+    "no2": 61.3
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T01:39:00Z",
+    "location": "Paris",
+    "pm25": 44.6,
+    "co2": 684,
+    "no2": 111.8
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T01:44:00Z",
+    "location": "Paris",
+    "pm25": 43.3,
+    "co2": 560,
+    "no2": 80.1
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T01:49:00Z",
+    "location": "Paris",
+    "pm25": 28.3,
+    "co2": 576,
+    "no2": 114.8
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T01:54:00Z",
+    "location": "Paris",
+    "pm25": 49.2,
+    "co2": 568,
+    "no2": 96.8
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T01:59:00Z",
+    "location": "Paris",
+    "pm25": 43.2,
+    "co2": 697,
+    "no2": 116.2
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T02:04:00Z",
+    "location": "Paris",
+    "pm25": 23.7,
+    "co2": 630,
+    "no2": 70.3
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T02:09:00Z",
+    "location": "Paris",
+    "pm25": 26.2,
+    "co2": 689,
+    "no2": 67.9
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T02:14:00Z",
+    "location": "Paris",
+    "pm25": 49.4,
+    "co2": 686,
+    "no2": 68.1
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T02:19:00Z",
+    "location": "Paris",
+    "pm25": 29.1,
+    "co2": 604,
+    "no2": 75.7
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T02:24:00Z",
+    "location": "Paris",
+    "pm25": 26.9,
+    "co2": 697,
+    "no2": 55.2
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T02:29:00Z",
+    "location": "Paris",
+    "pm25": 50.3,
+    "co2": 582,
+    "no2": 117.2
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T02:34:00Z",
+    "location": "Paris",
+    "pm25": 39.8,
+    "co2": 589,
+    "no2": 61.9
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T02:39:00Z",
+    "location": "Paris",
+    "pm25": 50.6,
+    "co2": 578,
+    "no2": 55.9
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T02:44:00Z",
+    "location": "Paris",
+    "pm25": 48.1,
+    "co2": 605,
+    "no2": 92.1
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T02:49:00Z",
+    "location": "Paris",
+    "pm25": 22.5,
+    "co2": 612,
+    "no2": 58.3
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T02:54:00Z",
+    "location": "Paris",
+    "pm25": 46.5,
+    "co2": 679,
+    "no2": 62.2
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T02:59:00Z",
+    "location": "Paris",
+    "pm25": 24.1,
+    "co2": 659,
+    "no2": 104.0
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T03:04:00Z",
+    "location": "Paris",
+    "pm25": 38.9,
+    "co2": 572,
+    "no2": 83.5
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T03:09:00Z",
+    "location": "Paris",
+    "pm25": 29.3,
+    "co2": 702,
+    "no2": 57.7
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T03:14:00Z",
+    "location": "Paris",
+    "pm25": 47.8,
+    "co2": 713,
+    "no2": 87.9
+  },
+  {
+    "sensor_id": "PAR-05",
+    "timestamp": "2024-03-01T03:19:00Z",
+    "location": "Paris",
+    "pm25": 37.1,
+    "co2": 552,
+    "no2": 58.8
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T00:00:00Z",
+    "location": "Berlin",
+    "pm25": 14.2,
+    "co2": 506,
+    "no2": 29.1
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T00:05:00Z",
+    "location": "Berlin",
+    "pm25": 8.6,
+    "co2": 511,
+    "no2": 17.4
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T00:10:00Z",
+    "location": "Berlin",
+    "pm25": 8.2,
+    "co2": 532,
+    "no2": 19.9
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T00:15:00Z",
+    "location": "Berlin",
+    "pm25": 8.9,
+    "co2": 534,
+    "no2": 35.9
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T00:20:00Z",
+    "location": "Berlin",
+    "pm25": 15.2,
+    "co2": 496,
+    "no2": 27.6
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T00:25:00Z",
+    "location": "Berlin",
+    "pm25": 16.0,
+    "co2": 492,
+    "no2": 30.0
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T00:30:00Z",
+    "location": "Berlin",
+    "pm25": 16.1,
+    "co2": 467,
+    "no2": 41.2
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T00:35:00Z",
+    "location": "Berlin",
+    "pm25": 8.7,
+    "co2": 538,
+    "no2": 36.5
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T00:40:00Z",
+    "location": "Berlin",
+    "pm25": 18.5,
+    "co2": 482,
+    "no2": 29.2
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T00:45:00Z",
+    "location": "Berlin",
+    "pm25": 20.3,
+    "co2": 507,
+    "no2": 26.2
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T00:50:00Z",
+    "location": "Berlin",
+    "pm25": 13.8,
+    "co2": 508,
+    "no2": 39.1
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T00:55:00Z",
+    "location": "Berlin",
+    "pm25": 11.7,
+    "co2": 495,
+    "no2": 36.9
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T01:00:00Z",
+    "location": "Berlin",
+    "pm25": 12.6,
+    "co2": 474,
+    "no2": 37.7
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T01:05:00Z",
+    "location": "Berlin",
+    "pm25": 14.1,
+    "co2": 466,
+    "no2": 42.4
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T01:10:00Z",
+    "location": "Berlin",
+    "pm25": 8.4,
+    "co2": 467,
+    "no2": 39.6
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T01:15:00Z",
+    "location": "Berlin",
+    "pm25": 12.6,
+    "co2": 471,
+    "no2": 33.4
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T01:20:00Z",
+    "location": "Berlin",
+    "pm25": 15.8,
+    "co2": 526,
+    "no2": 33.5
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T01:25:00Z",
+    "location": "Berlin",
+    "pm25": 17.1,
+    "co2": 507,
+    "no2": 26.7
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T01:30:00Z",
+    "location": "Berlin",
+    "pm25": 17.0,
+    "co2": 509,
+    "no2": 43.6
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T01:35:00Z",
+    "location": "Berlin",
+    "pm25": 17.8,
+    "co2": 491,
+    "no2": 34.8
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T01:40:00Z",
+    "location": "Berlin",
+    "pm25": 12.3,
+    "co2": 528,
+    "no2": 31.7
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T01:45:00Z",
+    "location": "Berlin",
+    "pm25": 9.3,
+    "co2": 516,
+    "no2": 22.4
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T01:50:00Z",
+    "location": "Berlin",
+    "pm25": 8.6,
+    "co2": 526,
+    "no2": 27.1
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T01:55:00Z",
+    "location": "Berlin",
+    "pm25": 18.4,
+    "co2": 528,
+    "no2": 22.5
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T02:00:00Z",
+    "location": "Berlin",
+    "pm25": 13.4,
+    "co2": 526,
+    "no2": 47.2
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T02:05:00Z",
+    "location": "Berlin",
+    "pm25": 19.3,
+    "co2": 533,
+    "no2": 37.3
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T02:10:00Z",
+    "location": "Berlin",
+    "pm25": 15.4,
+    "co2": 532,
+    "no2": 45.7
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T02:15:00Z",
+    "location": "Berlin",
+    "pm25": 19.4,
+    "co2": 489,
+    "no2": 16.0
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T02:20:00Z",
+    "location": "Berlin",
+    "pm25": 11.1,
+    "co2": 494,
+    "no2": 45.4
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T02:25:00Z",
+    "location": "Berlin",
+    "pm25": 12.3,
+    "co2": 478,
+    "no2": 43.7
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T02:30:00Z",
+    "location": "Berlin",
+    "pm25": 15.5,
+    "co2": 506,
+    "no2": 17.3
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T02:35:00Z",
+    "location": "Berlin",
+    "pm25": 18.1,
+    "co2": 458,
+    "no2": 18.0
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T02:40:00Z",
+    "location": "Berlin",
+    "pm25": 15.0,
+    "co2": 503,
+    "no2": 28.9
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T02:45:00Z",
+    "location": "Berlin",
+    "pm25": 12.1,
+    "co2": 502,
+    "no2": 25.3
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T02:50:00Z",
+    "location": "Berlin",
+    "pm25": 11.9,
+    "co2": 527,
+    "no2": 34.7
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T02:55:00Z",
+    "location": "Berlin",
+    "pm25": 20.3,
+    "co2": 474,
+    "no2": 20.2
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T03:00:00Z",
+    "location": "Berlin",
+    "pm25": 16.3,
+    "co2": 465,
+    "no2": 24.0
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T03:05:00Z",
+    "location": "Berlin",
+    "pm25": 16.9,
+    "co2": 517,
+    "no2": 35.0
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T03:10:00Z",
+    "location": "Berlin",
+    "pm25": 13.2,
+    "co2": 482,
+    "no2": 39.9
+  },
+  {
+    "sensor_id": "BER-01",
+    "timestamp": "2024-03-01T03:15:00Z",
+    "location": "Berlin",
+    "pm25": 8.7,
+    "co2": 510,
+    "no2": 18.7
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T00:01:00Z",
+    "location": "Berlin",
+    "pm25": 17.2,
+    "co2": 530,
+    "no2": 31.1
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T00:06:00Z",
+    "location": "Berlin",
+    "pm25": 17.0,
+    "co2": 460,
+    "no2": 22.3
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T00:11:00Z",
+    "location": "Berlin",
+    "pm25": 21.8,
+    "co2": 462,
+    "no2": 15.3
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T00:16:00Z",
+    "location": "Berlin",
+    "pm25": 11.5,
+    "co2": 482,
+    "no2": 40.3
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T00:21:00Z",
+    "location": "Berlin",
+    "pm25": 18.5,
+    "co2": 492,
+    "no2": 25.8
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T00:26:00Z",
+    "location": "Berlin",
+    "pm25": 7.1,
+    "co2": 510,
+    "no2": 20.8
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T00:31:00Z",
+    "location": "Berlin",
+    "pm25": 12.7,
+    "co2": 484,
+    "no2": 31.5
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T00:36:00Z",
+    "location": "Berlin",
+    "pm25": 19.5,
+    "co2": 500,
+    "no2": 17.4
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T00:41:00Z",
+    "location": "Berlin",
+    "pm25": 19.9,
+    "co2": 460,
+    "no2": 29.4
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T00:46:00Z",
+    "location": "Berlin",
+    "pm25": 13.9,
+    "co2": 464,
+    "no2": 43.4
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T00:51:00Z",
+    "location": "Berlin",
+    "pm25": 15.6,
+    "co2": 528,
+    "no2": 28.3
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T00:56:00Z",
+    "location": "Berlin",
+    "pm25": 16.6,
+    "co2": 492,
+    "no2": 18.8
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T01:01:00Z",
+    "location": "Berlin",
+    "pm25": 7.3,
+    "co2": 496,
+    "no2": 20.7
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T01:06:00Z",
+    "location": "Berlin",
+    "pm25": 21.2,
+    "co2": 513,
+    "no2": 42.5
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T01:11:00Z",
+    "location": "Berlin",
+    "pm25": 20.8,
+    "co2": 466,
+    "no2": 29.4
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T01:16:00Z",
+    "location": "Berlin",
+    "pm25": 8.6,
+    "co2": 510,
+    "no2": 34.4
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T01:21:00Z",
+    "location": "Berlin",
+    "pm25": 14.9,
+    "co2": 505,
+    "no2": 43.7
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T01:26:00Z",
+    "location": "Berlin",
+    "pm25": 18.2,
+    "co2": 483,
+    "no2": 26.0
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T01:31:00Z",
+    "location": "Berlin",
+    "pm25": 9.5,
+    "co2": 520,
+    "no2": 35.9
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T01:36:00Z",
+    "location": "Berlin",
+    "pm25": 15.0,
+    "co2": 479,
+    "no2": 44.9
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T01:41:00Z",
+    "location": "Berlin",
+    "pm25": 12.2,
+    "co2": 537,
+    "no2": 41.9
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T01:46:00Z",
+    "location": "Berlin",
+    "pm25": 10.5,
+    "co2": 473,
+    "no2": 23.4
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T01:51:00Z",
+    "location": "Berlin",
+    "pm25": 9.6,
+    "co2": 474,
+    "no2": 40.1
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T01:56:00Z",
+    "location": "Berlin",
+    "pm25": 16.8,
+    "co2": 477,
+    "no2": 46.4
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T02:01:00Z",
+    "location": "Berlin",
+    "pm25": 16.4,
+    "co2": 514,
+    "no2": 39.9
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T02:06:00Z",
+    "location": "Berlin",
+    "pm25": 18.4,
+    "co2": 512,
+    "no2": 37.5
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T02:11:00Z",
+    "location": "Berlin",
+    "pm25": 20.2,
+    "co2": 537,
+    "no2": 36.0
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T02:16:00Z",
+    "location": "Berlin",
+    "pm25": 16.4,
+    "co2": 535,
+    "no2": 25.4
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T02:21:00Z",
+    "location": "Berlin",
+    "pm25": 13.6,
+    "co2": 515,
+    "no2": 29.6
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T02:26:00Z",
+    "location": "Berlin",
+    "pm25": 11.5,
+    "co2": 490,
+    "no2": 34.5
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T02:31:00Z",
+    "location": "Berlin",
+    "pm25": 12.3,
+    "co2": 464,
+    "no2": 25.2
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T02:36:00Z",
+    "location": "Berlin",
+    "pm25": 13.8,
+    "co2": 462,
+    "no2": 27.2
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T02:41:00Z",
+    "location": "Berlin",
+    "pm25": 11.3,
+    "co2": 537,
+    "no2": 43.5
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T02:46:00Z",
+    "location": "Berlin",
+    "pm25": 19.8,
+    "co2": 533,
+    "no2": 34.6
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T02:51:00Z",
+    "location": "Berlin",
+    "pm25": 12.8,
+    "co2": 529,
+    "no2": 33.3
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T02:56:00Z",
+    "location": "Berlin",
+    "pm25": 18.9,
+    "co2": 460,
+    "no2": 29.8
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T03:01:00Z",
+    "location": "Berlin",
+    "pm25": 19.1,
+    "co2": 538,
+    "no2": 21.2
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T03:06:00Z",
+    "location": "Berlin",
+    "pm25": 16.1,
+    "co2": 519,
+    "no2": 20.0
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T03:11:00Z",
+    "location": "Berlin",
+    "pm25": 7.9,
+    "co2": 468,
+    "no2": 41.8
+  },
+  {
+    "sensor_id": "BER-02",
+    "timestamp": "2024-03-01T03:16:00Z",
+    "location": "Berlin",
+    "pm25": 19.6,
+    "co2": 465,
+    "no2": 31.7
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T00:02:00Z",
+    "location": "Berlin",
+    "pm25": 9.6,
+    "co2": 486,
+    "no2": 38.4
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T00:07:00Z",
+    "location": "Berlin",
+    "pm25": 21.9,
+    "co2": 522,
+    "no2": 32.3
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T00:12:00Z",
+    "location": "Berlin",
+    "pm25": 9.4,
+    "co2": 502,
+    "no2": 45.3
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T00:17:00Z",
+    "location": "Berlin",
+    "pm25": 12.8,
+    "co2": 498,
+    "no2": 37.4
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T00:22:00Z",
+    "location": "Berlin",
+    "pm25": 7.8,
+    "co2": 535,
+    "no2": 36.4
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T00:27:00Z",
+    "location": "Berlin",
+    "pm25": 8.0,
+    "co2": 467,
+    "no2": 33.4
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T00:32:00Z",
+    "location": "Berlin",
+    "pm25": 12.8,
+    "co2": 487,
+    "no2": 38.9
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T00:37:00Z",
+    "location": "Berlin",
+    "pm25": 16.8,
+    "co2": 532,
+    "no2": 43.8
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T00:42:00Z",
+    "location": "Berlin",
+    "pm25": 12.0,
+    "co2": 529,
+    "no2": 36.9
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T00:47:00Z",
+    "location": "Berlin",
+    "pm25": 20.8,
+    "co2": 494,
+    "no2": 46.9
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T00:52:00Z",
+    "location": "Berlin",
+    "pm25": 17.5,
+    "co2": 505,
+    "no2": 19.3
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T00:57:00Z",
+    "location": "Berlin",
+    "pm25": 17.6,
+    "co2": 465,
+    "no2": 25.2
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T01:02:00Z",
+    "location": "Berlin",
+    "pm25": 12.7,
+    "co2": 497,
+    "no2": 41.8
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T01:07:00Z",
+    "location": "Berlin",
+    "pm25": 17.1,
+    "co2": 522,
+    "no2": 18.1
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T01:12:00Z",
+    "location": "Berlin",
+    "pm25": 17.1,
+    "co2": 520,
+    "no2": 26.9
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T01:17:00Z",
+    "location": "Berlin",
+    "pm25": 12.4,
+    "co2": 478,
+    "no2": 46.4
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T01:22:00Z",
+    "location": "Berlin",
+    "pm25": 12.1,
+    "co2": 517,
+    "no2": 21.3
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T01:27:00Z",
+    "location": "Berlin",
+    "pm25": 22.0,
+    "co2": 474,
+    "no2": 17.5
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T01:32:00Z",
+    "location": "Berlin",
+    "pm25": 19.7,
+    "co2": 467,
+    "no2": 31.8
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T01:37:00Z",
+    "location": "Berlin",
+    "pm25": 15.1,
+    "co2": 522,
+    "no2": 16.2
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T01:42:00Z",
+    "location": "Berlin",
+    "pm25": 12.1,
+    "co2": 534,
+    "no2": 19.3
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T01:47:00Z",
+    "location": "Berlin",
+    "pm25": 12.7,
+    "co2": 475,
+    "no2": 21.0
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T01:52:00Z",
+    "location": "Berlin",
+    "pm25": 17.4,
+    "co2": 534,
+    "no2": 41.7
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T01:57:00Z",
+    "location": "Berlin",
+    "pm25": 9.5,
+    "co2": 511,
+    "no2": 16.4
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T02:02:00Z",
+    "location": "Berlin",
+    "pm25": 12.5,
+    "co2": 485,
+    "no2": 47.0
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T02:07:00Z",
+    "location": "Berlin",
+    "pm25": 16.2,
+    "co2": 512,
+    "no2": 22.7
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T02:12:00Z",
+    "location": "Berlin",
+    "pm25": 10.6,
+    "co2": 515,
+    "no2": 44.8
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T02:17:00Z",
+    "location": "Berlin",
+    "pm25": 9.9,
+    "co2": 528,
+    "no2": 47.5
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T02:22:00Z",
+    "location": "Berlin",
+    "pm25": 13.9,
+    "co2": 491,
+    "no2": 40.7
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T02:27:00Z",
+    "location": "Berlin",
+    "pm25": 14.5,
+    "co2": 508,
+    "no2": 46.9
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T02:32:00Z",
+    "location": "Berlin",
+    "pm25": 19.3,
+    "co2": 532,
+    "no2": 19.6
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T02:37:00Z",
+    "location": "Berlin",
+    "pm25": 10.8,
+    "co2": 537,
+    "no2": 30.9
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T02:42:00Z",
+    "location": "Berlin",
+    "pm25": 12.6,
+    "co2": 468,
+    "no2": 38.5
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T02:47:00Z",
+    "location": "Berlin",
+    "pm25": 14.7,
+    "co2": 470,
+    "no2": 24.4
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T02:52:00Z",
+    "location": "Berlin",
+    "pm25": 18.4,
+    "co2": 489,
+    "no2": 29.8
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T02:57:00Z",
+    "location": "Berlin",
+    "pm25": 14.7,
+    "co2": 510,
+    "no2": 18.0
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T03:02:00Z",
+    "location": "Berlin",
+    "pm25": 20.7,
+    "co2": 512,
+    "no2": 44.2
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T03:07:00Z",
+    "location": "Berlin",
+    "pm25": 21.0,
+    "co2": 508,
+    "no2": 16.8
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T03:12:00Z",
+    "location": "Berlin",
+    "pm25": 14.5,
+    "co2": 485,
+    "no2": 27.7
+  },
+  {
+    "sensor_id": "BER-03",
+    "timestamp": "2024-03-01T03:17:00Z",
+    "location": "Berlin",
+    "pm25": 8.2,
+    "co2": 483,
+    "no2": 15.9
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T00:03:00Z",
+    "location": "Berlin",
+    "pm25": 21.0,
+    "co2": 538,
+    "no2": 26.1
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T00:08:00Z",
+    "location": "Berlin",
+    "pm25": 9.2,
+    "co2": 459,
+    "no2": 24.5
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T00:13:00Z",
+    "location": "Berlin",
+    "pm25": 19.4,
+    "co2": 472,
+    "no2": 40.0
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T00:18:00Z",
+    "location": "Berlin",
+    "pm25": 14.0,
+    "co2": 533,
+    "no2": 15.2
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T00:23:00Z",
+    "location": "Berlin",
+    "pm25": 8.2,
+    "co2": 487,
+    "no2": 22.1
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T00:28:00Z",
+    "location": "Berlin",
+    "pm25": 9.2,
+    "co2": 532,
+    "no2": 32.4
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T00:33:00Z",
+    "location": "Berlin",
+    "pm25": 8.7,
+    "co2": 491,
+    "no2": 22.8
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T00:38:00Z",
+    "location": "Berlin",
+    "pm25": 8.8,
+    "co2": 485,
+    "no2": 28.9
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T00:43:00Z",
+    "location": "Berlin",
+    "pm25": 18.9,
+    "co2": 513,
+    "no2": 17.1
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T00:48:00Z",
+    "location": "Berlin",
+    "pm25": 19.6,
+    "co2": 518,
+    "no2": 34.7
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T00:53:00Z",
+    "location": "Berlin",
+    "pm25": 7.2,
+    "co2": 520,
+    "no2": 34.0
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T00:58:00Z",
+    "location": "Berlin",
+    "pm25": 17.8,
+    "co2": 492,
+    "no2": 29.2
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T01:03:00Z",
+    "location": "Berlin",
+    "pm25": 16.2,
+    "co2": 485,
+    "no2": 33.8
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T01:08:00Z",
+    "location": "Berlin",
+    "pm25": 9.8,
+    "co2": 540,
+    "no2": 17.8
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T01:13:00Z",
+    "location": "Berlin",
+    "pm25": 21.6,
+    "co2": 463,
+    "no2": 46.5
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T01:18:00Z",
+    "location": "Berlin",
+    "pm25": 15.2,
+    "co2": 519,
+    "no2": 33.3
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T01:23:00Z",
+    "location": "Berlin",
+    "pm25": 12.9,
+    "co2": 515,
+    "no2": 16.4
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T01:28:00Z",
+    "location": "Berlin",
+    "pm25": 12.8,
+    "co2": 502,
+    "no2": 23.4
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T01:33:00Z",
+    "location": "Berlin",
+    "pm25": 7.2,
+    "co2": 463,
+    "no2": 26.4
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T01:38:00Z",
+    "location": "Berlin",
+    "pm25": 18.0,
+    "co2": 535,
+    "no2": 18.4
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T01:43:00Z",
+    "location": "Berlin",
+    "pm25": 15.7,
+    "co2": 497,
+    "no2": 19.4
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T01:48:00Z",
+    "location": "Berlin",
+    "pm25": 12.3,
+    "co2": 498,
+    "no2": 41.8
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T01:53:00Z",
+    "location": "Berlin",
+    "pm25": 9.6,
+    "co2": 514,
+    "no2": 47.4
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T01:58:00Z",
+    "location": "Berlin",
+    "pm25": 14.2,
+    "co2": 478,
+    "no2": 41.8
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T02:03:00Z",
+    "location": "Berlin",
+    "pm25": 7.9,
+    "co2": 513,
+    "no2": 16.2
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T02:08:00Z",
+    "location": "Berlin",
+    "pm25": 10.0,
+    "co2": 480,
+    "no2": 44.2
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T02:13:00Z",
+    "location": "Berlin",
+    "pm25": 11.7,
+    "co2": 494,
+    "no2": 32.0
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T02:18:00Z",
+    "location": "Berlin",
+    "pm25": 21.8,
+    "co2": 524,
+    "no2": 30.6
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T02:23:00Z",
+    "location": "Berlin",
+    "pm25": 7.5,
+    "co2": 537,
+    "no2": 21.3
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T02:28:00Z",
+    "location": "Berlin",
+    "pm25": 12.4,
+    "co2": 461,
+    "no2": 43.6
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T02:33:00Z",
+    "location": "Berlin",
+    "pm25": 12.0,
+    "co2": 470,
+    "no2": 41.4
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T02:38:00Z",
+    "location": "Berlin",
+    "pm25": 13.6,
+    "co2": 506,
+    "no2": 39.5
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T02:43:00Z",
+    "location": "Berlin",
+    "pm25": 20.4,
+    "co2": 504,
+    "no2": 26.2
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T02:48:00Z",
+    "location": "Berlin",
+    "pm25": 9.8,
+    "co2": 518,
+    "no2": 27.1
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T02:53:00Z",
+    "location": "Berlin",
+    "pm25": 19.0,
+    "co2": 489,
+    "no2": 41.4
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T02:58:00Z",
+    "location": "Berlin",
+    "pm25": 17.9,
+    "co2": 465,
+    "no2": 29.2
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T03:03:00Z",
+    "location": "Berlin",
+    "pm25": 21.9,
+    "co2": 478,
+    "no2": 33.0
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T03:08:00Z",
+    "location": "Berlin",
+    "pm25": 11.8,
+    "co2": 465,
+    "no2": 25.8
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T03:13:00Z",
+    "location": "Berlin",
+    "pm25": 11.4,
+    "co2": 512,
+    "no2": 34.9
+  },
+  {
+    "sensor_id": "BER-04",
+    "timestamp": "2024-03-01T03:18:00Z",
+    "location": "Berlin",
+    "pm25": 13.4,
+    "co2": 511,
+    "no2": 26.6
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T00:04:00Z",
+    "location": "Berlin",
+    "pm25": 7.6,
+    "co2": 500,
+    "no2": 35.3
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T00:09:00Z",
+    "location": "Berlin",
+    "pm25": 13.5,
+    "co2": 536,
+    "no2": 47.3
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T00:14:00Z",
+    "location": "Berlin",
+    "pm25": 21.2,
+    "co2": 464,
+    "no2": 37.1
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T00:19:00Z",
+    "location": "Berlin",
+    "pm25": 13.1,
+    "co2": 520,
+    "no2": 41.4
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T00:24:00Z",
+    "location": "Berlin",
+    "pm25": 17.2,
+    "co2": 458,
+    "no2": 19.7
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T00:29:00Z",
+    "location": "Berlin",
+    "pm25": 16.1,
+    "co2": 511,
+    "no2": 16.1
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T00:34:00Z",
+    "location": "Berlin",
+    "pm25": 8.0,
+    "co2": 537,
+    "no2": 27.1
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T00:39:00Z",
+    "location": "Berlin",
+    "pm25": 12.7,
+    "co2": 527,
+    "no2": 16.1
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T00:44:00Z",
+    "location": "Berlin",
+    "pm25": 9.3,
+    "co2": 512,
+    "no2": 46.3
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T00:49:00Z",
+    "location": "Berlin",
+    "pm25": 12.6,
+    "co2": 464,
+    "no2": 33.9
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T00:54:00Z",
+    "location": "Berlin",
+    "pm25": 14.9,
+    "co2": 505,
+    "no2": 25.4
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T00:59:00Z",
+    "location": "Berlin",
+    "pm25": 11.2,
+    "co2": 469,
+    "no2": 15.9
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T01:04:00Z",
+    "location": "Berlin",
+    "pm25": 9.8,
+    "co2": 521,
+    "no2": 27.8
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T01:09:00Z",
+    "location": "Berlin",
+    "pm25": 15.4,
+    "co2": 488,
+    "no2": 40.6
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T01:14:00Z",
+    "location": "Berlin",
+    "pm25": 17.6,
+    "co2": 482,
+    "no2": 47.9
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T01:19:00Z",
+    "location": "Berlin",
+    "pm25": 11.3,
+    "co2": 517,
+    "no2": 21.6
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T01:24:00Z",
+    "location": "Berlin",
+    "pm25": 9.0,
+    "co2": 464,
+    "no2": 29.9
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T01:29:00Z",
+    "location": "Berlin",
+    "pm25": 20.5,
+    "co2": 511,
+    "no2": 47.9
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T01:34:00Z",
+    "location": "Berlin",
+    "pm25": 19.2,
+    "co2": 495,
+    "no2": 37.0
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T01:39:00Z",
+    "location": "Berlin",
+    "pm25": 17.6,
+    "co2": 525,
+    "no2": 32.9
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T01:44:00Z",
+    "location": "Berlin",
+    "pm25": 20.4,
+    "co2": 475,
+    "no2": 38.5
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T01:49:00Z",
+    "location": "Berlin",
+    "pm25": 20.9,
+    "co2": 536,
+    "no2": 20.7
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T01:54:00Z",
+    "location": "Berlin",
+    "pm25": 12.4,
+    "co2": 483,
+    "no2": 19.0
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T01:59:00Z",
+    "location": "Berlin",
+    "pm25": 10.0,
+    "co2": 472,
+    "no2": 22.8
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T02:04:00Z",
+    "location": "Berlin",
+    "pm25": 14.4,
+    "co2": 501,
+    "no2": 33.3
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T02:09:00Z",
+    "location": "Berlin",
+    "pm25": 12.5,
+    "co2": 525,
+    "no2": 19.3
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T02:14:00Z",
+    "location": "Berlin",
+    "pm25": 20.3,
+    "co2": 463,
+    "no2": 25.2
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T02:19:00Z",
+    "location": "Berlin",
+    "pm25": 22.0,
+    "co2": 516,
+    "no2": 32.3
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T02:24:00Z",
+    "location": "Berlin",
+    "pm25": 18.5,
+    "co2": 528,
+    "no2": 17.4
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T02:29:00Z",
+    "location": "Berlin",
+    "pm25": 21.6,
+    "co2": 537,
+    "no2": 17.4
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T02:34:00Z",
+    "location": "Berlin",
+    "pm25": 14.0,
+    "co2": 521,
+    "no2": 26.4
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T02:39:00Z",
+    "location": "Berlin",
+    "pm25": 20.2,
+    "co2": 525,
+    "no2": 36.1
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T02:44:00Z",
+    "location": "Berlin",
+    "pm25": 9.7,
+    "co2": 471,
+    "no2": 29.3
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T02:49:00Z",
+    "location": "Berlin",
+    "pm25": 20.7,
+    "co2": 462,
+    "no2": 42.4
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T02:54:00Z",
+    "location": "Berlin",
+    "pm25": 14.8,
+    "co2": 493,
+    "no2": 20.4
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T02:59:00Z",
+    "location": "Berlin",
+    "pm25": 11.8,
+    "co2": 483,
+    "no2": 26.4
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T03:04:00Z",
+    "location": "Berlin",
+    "pm25": 21.1,
+    "co2": 491,
+    "no2": 42.9
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T03:09:00Z",
+    "location": "Berlin",
+    "pm25": 10.8,
+    "co2": 536,
+    "no2": 46.6
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T03:14:00Z",
+    "location": "Berlin",
+    "pm25": 11.1,
+    "co2": 535,
+    "no2": 25.0
+  },
+  {
+    "sensor_id": "BER-05",
+    "timestamp": "2024-03-01T03:19:00Z",
+    "location": "Berlin",
+    "pm25": 15.0,
+    "co2": 519,
+    "no2": 36.2
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T00:00:00Z",
+    "location": "Delhi",
+    "pm25": 178.1,
+    "co2": 1177,
+    "no2": 192.0
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T00:05:00Z",
+    "location": "Delhi",
+    "pm25": 185.8,
+    "co2": 1248,
+    "no2": 274.2
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T00:10:00Z",
+    "location": "Delhi",
+    "pm25": 148.8,
+    "co2": 1168,
+    "no2": 179.5
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T00:15:00Z",
+    "location": "Delhi",
+    "pm25": 209.3,
+    "co2": 921,
+    "no2": 180.0
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T00:20:00Z",
+    "location": "Delhi",
+    "pm25": 183.8,
+    "co2": 1175,
+    "no2": 204.1
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T00:25:00Z",
+    "location": "Delhi",
+    "pm25": 134.2,
+    "co2": 1172,
+    "no2": 220.8
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T00:30:00Z",
+    "location": "Delhi",
+    "pm25": 183.5,
+    "co2": 1134,
+    "no2": 272.8
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T00:35:00Z",
+    "location": "Delhi",
+    "pm25": 172.7,
+    "co2": 1208,
+    "no2": 280.2
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T00:40:00Z",
+    "location": "Delhi",
+    "pm25": 165.5,
+    "co2": 1230,
+    "no2": 219.7
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T00:45:00Z",
+    "location": "Delhi",
+    "pm25": 162.2,
+    "co2": 1232,
+    "no2": 181.6
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T00:50:00Z",
+    "location": "Delhi",
+    "pm25": 160.6,
+    "co2": 1127,
+    "no2": 226.1
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T00:55:00Z",
+    "location": "Delhi",
+    "pm25": 149.1,
+    "co2": 953,
+    "no2": 209.4
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T01:00:00Z",
+    "location": "Delhi",
+    "pm25": 192.6,
+    "co2": 1255,
+    "no2": 283.7
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T01:05:00Z",
+    "location": "Delhi",
+    "pm25": 149.7,
+    "co2": 1084,
+    "no2": 189.4
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T01:10:00Z",
+    "location": "Delhi",
+    "pm25": 152.6,
+    "co2": 1167,
+    "no2": 186.7
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T01:15:00Z",
+    "location": "Delhi",
+    "pm25": 137.8,
+    "co2": 942,
+    "no2": 204.4
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T01:20:00Z",
+    "location": "Delhi",
+    "pm25": 138.5,
+    "co2": 929,
+    "no2": 180.6
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T01:25:00Z",
+    "location": "Delhi",
+    "pm25": 218.7,
+    "co2": 1195,
+    "no2": 221.0
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T01:30:00Z",
+    "location": "Delhi",
+    "pm25": 220.7,
+    "co2": 961,
+    "no2": 264.5
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T01:35:00Z",
+    "location": "Delhi",
+    "pm25": 217.4,
+    "co2": 1249,
+    "no2": 209.4
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T01:40:00Z",
+    "location": "Delhi",
+    "pm25": 197.8,
+    "co2": 1135,
+    "no2": 284.6
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T01:45:00Z",
+    "location": "Delhi",
+    "pm25": 163.7,
+    "co2": 1037,
+    "no2": 229.7
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T01:50:00Z",
+    "location": "Delhi",
+    "pm25": 120.4,
+    "co2": 1081,
+    "no2": 230.6
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T01:55:00Z",
+    "location": "Delhi",
+    "pm25": 221.2,
+    "co2": 990,
+    "no2": 239.2
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T02:00:00Z",
+    "location": "Delhi",
+    "pm25": 115.6,
+    "co2": 1024,
+    "no2": 229.4
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T02:05:00Z",
+    "location": "Delhi",
+    "pm25": 211.5,
+    "co2": 1214,
+    "no2": 249.0
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T02:10:00Z",
+    "location": "Delhi",
+    "pm25": 142.9,
+    "co2": 884,
+    "no2": 268.2
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T02:15:00Z",
+    "location": "Delhi",
+    "pm25": 159.6,
+    "co2": 1015,
+    "no2": 255.0
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T02:20:00Z",
+    "location": "Delhi",
+    "pm25": 197.8,
+    "co2": 1067,
+    "no2": 180.0
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T02:25:00Z",
+    "location": "Delhi",
+    "pm25": 115.9,
+    "co2": 1167,
+    "no2": 196.4
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T02:30:00Z",
+    "location": "Delhi",
+    "pm25": 173.6,
+    "co2": 917,
+    "no2": 217.5
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T02:35:00Z",
+    "location": "Delhi",
+    "pm25": 161.8,
+    "co2": 1161,
+    "no2": 205.8
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T02:40:00Z",
+    "location": "Delhi",
+    "pm25": 223.7,
+    "co2": 1228,
+    "no2": 242.2
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T02:45:00Z",
+    "location": "Delhi",
+    "pm25": 124.8,
+    "co2": 929,
+    "no2": 218.3
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T02:50:00Z",
+    "location": "Delhi",
+    "pm25": 201.4,
+    "co2": 1053,
+    "no2": 236.4
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T02:55:00Z",
+    "location": "Delhi",
+    "pm25": 152.0,
+    "co2": 953,
+    "no2": 196.9
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T03:00:00Z",
+    "location": "Delhi",
+    "pm25": 168.5,
+    "co2": 1136,
+    "no2": 179.4
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T03:05:00Z",
+    "location": "Delhi",
+    "pm25": 114.5,
+    "co2": 1245,
+    "no2": 211.6
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T03:10:00Z",
+    "location": "Delhi",
+    "pm25": 164.5,
+    "co2": 1113,
+    "no2": 191.4
+  },
+  {
+    "sensor_id": "DEL-01",
+    "timestamp": "2024-03-01T03:15:00Z",
+    "location": "Delhi",
+    "pm25": 212.7,
+    "co2": 951,
+    "no2": 211.1
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T00:01:00Z",
+    "location": "Delhi",
+    "pm25": 180.5,
+    "co2": 963,
+    "no2": 218.2
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T00:06:00Z",
+    "location": "Delhi",
+    "pm25": 180.9,
+    "co2": 1033,
+    "no2": 240.3
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T00:11:00Z",
+    "location": "Delhi",
+    "pm25": 168.3,
+    "co2": 1140,
+    "no2": 233.6
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T00:16:00Z",
+    "location": "Delhi",
+    "pm25": 191.5,
+    "co2": 1033,
+    "no2": 227.2
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T00:21:00Z",
+    "location": "Delhi",
+    "pm25": 111.9,
+    "co2": 1049,
+    "no2": 249.1
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T00:26:00Z",
+    "location": "Delhi",
+    "pm25": 222.7,
+    "co2": 1178,
+    "no2": 208.8
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T00:31:00Z",
+    "location": "Delhi",
+    "pm25": 213.4,
+    "co2": 1232,
+    "no2": 244.2
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T00:36:00Z",
+    "location": "Delhi",
+    "pm25": 178.6,
+    "co2": 1015,
+    "no2": 281.4
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T00:41:00Z",
+    "location": "Delhi",
+    "pm25": 200.0,
+    "co2": 1277,
+    "no2": 238.6
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T00:46:00Z",
+    "location": "Delhi",
+    "pm25": 136.2,
+    "co2": 906,
+    "no2": 239.2
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T00:51:00Z",
+    "location": "Delhi",
+    "pm25": 129.6,
+    "co2": 1202,
+    "no2": 254.3
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T00:56:00Z",
+    "location": "Delhi",
+    "pm25": 199.1,
+    "co2": 1074,
+    "no2": 191.3
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T01:01:00Z",
+    "location": "Delhi",
+    "pm25": 188.3,
+    "co2": 896,
+    "no2": 238.0
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T01:06:00Z",
+    "location": "Delhi",
+    "pm25": 190.6,
+    "co2": 977,
+    "no2": 177.1
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T01:11:00Z",
+    "location": "Delhi",
+    "pm25": 146.1,
+    "co2": 957,
+    "no2": 220.4
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T01:16:00Z",
+    "location": "Delhi",
+    "pm25": 133.4,
+    "co2": 1136,
+    "no2": 260.2
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T01:21:00Z",
+    "location": "Delhi",
+    "pm25": 215.9,
+    "co2": 1256,
+    "no2": 255.0
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T01:26:00Z",
+    "location": "Delhi",
+    "pm25": 191.2,
+    "co2": 1145,
+    "no2": 197.8
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T01:31:00Z",
+    "location": "Delhi",
+    "pm25": 147.4,
+    "co2": 1219,
+    "no2": 227.6
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T01:36:00Z",
+    "location": "Delhi",
+    "pm25": 153.3,
+    "co2": 968,
+    "no2": 225.6
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T01:41:00Z",
+    "location": "Delhi",
+    "pm25": 171.3,
+    "co2": 1159,
+    "no2": 214.0
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T01:46:00Z",
+    "location": "Delhi",
+    "pm25": 198.8,
+    "co2": 1249,
+    "no2": 249.9
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T01:51:00Z",
+    "location": "Delhi",
+    "pm25": 202.4,
+    "co2": 1015,
+    "no2": 242.1
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T01:56:00Z",
+    "location": "Delhi",
+    "pm25": 132.1,
+    "co2": 1006,
+    "no2": 205.7
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T02:01:00Z",
+    "location": "Delhi",
+    "pm25": 144.3,
+    "co2": 1032,
+    "no2": 259.8
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T02:06:00Z",
+    "location": "Delhi",
+    "pm25": 191.1,
+    "co2": 1233,
+    "no2": 252.5
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T02:11:00Z",
+    "location": "Delhi",
+    "pm25": 146.5,
+    "co2": 1058,
+    "no2": 236.7
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T02:16:00Z",
+    "location": "Delhi",
+    "pm25": 217.5,
+    "co2": 1249,
+    "no2": 205.1
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T02:21:00Z",
+    "location": "Delhi",
+    "pm25": 124.0,
+    "co2": 1226,
+    "no2": 234.8
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T02:26:00Z",
+    "location": "Delhi",
+    "pm25": 213.0,
+    "co2": 1082,
+    "no2": 265.0
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T02:31:00Z",
+    "location": "Delhi",
+    "pm25": 219.8,
+    "co2": 954,
+    "no2": 206.9
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T02:36:00Z",
+    "location": "Delhi",
+    "pm25": 143.1,
+    "co2": 1245,
+    "no2": 183.7
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T02:41:00Z",
+    "location": "Delhi",
+    "pm25": 216.3,
+    "co2": 1215,
+    "no2": 203.2
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T02:46:00Z",
+    "location": "Delhi",
+    "pm25": 165.1,
+    "co2": 983,
+    "no2": 266.1
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T02:51:00Z",
+    "location": "Delhi",
+    "pm25": 141.2,
+    "co2": 1167,
+    "no2": 251.6
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T02:56:00Z",
+    "location": "Delhi",
+    "pm25": 125.8,
+    "co2": 1195,
+    "no2": 256.5
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T03:01:00Z",
+    "location": "Delhi",
+    "pm25": 137.5,
+    "co2": 905,
+    "no2": 248.7
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T03:06:00Z",
+    "location": "Delhi",
+    "pm25": 171.1,
+    "co2": 1206,
+    "no2": 200.6
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T03:11:00Z",
+    "location": "Delhi",
+    "pm25": 121.5,
+    "co2": 1049,
+    "no2": 253.9
+  },
+  {
+    "sensor_id": "DEL-02",
+    "timestamp": "2024-03-01T03:16:00Z",
+    "location": "Delhi",
+    "pm25": 121.6,
+    "co2": 1274,
+    "no2": 190.1
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T00:02:00Z",
+    "location": "Delhi",
+    "pm25": 220.9,
+    "co2": 960,
+    "no2": 219.8
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T00:07:00Z",
+    "location": "Delhi",
+    "pm25": 217.5,
+    "co2": 1123,
+    "no2": 227.5
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T00:12:00Z",
+    "location": "Delhi",
+    "pm25": 132.9,
+    "co2": 1027,
+    "no2": 210.3
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T00:17:00Z",
+    "location": "Delhi",
+    "pm25": 184.3,
+    "co2": 1273,
+    "no2": 184.8
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T00:22:00Z",
+    "location": "Delhi",
+    "pm25": 176.0,
+    "co2": 1153,
+    "no2": 256.3
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T00:27:00Z",
+    "location": "Delhi",
+    "pm25": 207.8,
+    "co2": 899,
+    "no2": 275.5
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T00:32:00Z",
+    "location": "Delhi",
+    "pm25": 130.1,
+    "co2": 970,
+    "no2": 277.7
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T00:37:00Z",
+    "location": "Delhi",
+    "pm25": 114.2,
+    "co2": 1083,
+    "no2": 261.7
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T00:42:00Z",
+    "location": "Delhi",
+    "pm25": 131.4,
+    "co2": 1263,
+    "no2": 280.8
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T00:47:00Z",
+    "location": "Delhi",
+    "pm25": 216.5,
+    "co2": 899,
+    "no2": 176.0
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T00:52:00Z",
+    "location": "Delhi",
+    "pm25": 175.3,
+    "co2": 934,
+    "no2": 277.1
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T00:57:00Z",
+    "location": "Delhi",
+    "pm25": 148.5,
+    "co2": 1112,
+    "no2": 283.8
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T01:02:00Z",
+    "location": "Delhi",
+    "pm25": 172.5,
+    "co2": 1132,
+    "no2": 272.8
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T01:07:00Z",
+    "location": "Delhi",
+    "pm25": 125.4,
+    "co2": 1138,
+    "no2": 226.5
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T01:12:00Z",
+    "location": "Delhi",
+    "pm25": 132.2,
+    "co2": 937,
+    "no2": 211.4
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T01:17:00Z",
+    "location": "Delhi",
+    "pm25": 194.1,
+    "co2": 1211,
+    "no2": 203.3
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T01:22:00Z",
+    "location": "Delhi",
+    "pm25": 131.4,
+    "co2": 1257,
+    "no2": 212.1
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T01:27:00Z",
+    "location": "Delhi",
+    "pm25": 143.9,
+    "co2": 1225,
+    "no2": 258.3
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T01:32:00Z",
+    "location": "Delhi",
+    "pm25": 130.2,
+    "co2": 1207,
+    "no2": 273.7
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T01:37:00Z",
+    "location": "Delhi",
+    "pm25": 205.1,
+    "co2": 1143,
+    "no2": 211.1
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T01:42:00Z",
+    "location": "Delhi",
+    "pm25": 156.1,
+    "co2": 928,
+    "no2": 195.3
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T01:47:00Z",
+    "location": "Delhi",
+    "pm25": 126.2,
+    "co2": 1045,
+    "no2": 277.9
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T01:52:00Z",
+    "location": "Delhi",
+    "pm25": 110.8,
+    "co2": 1076,
+    "no2": 200.9
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T01:57:00Z",
+    "location": "Delhi",
+    "pm25": 196.7,
+    "co2": 1048,
+    "no2": 208.2
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T02:02:00Z",
+    "location": "Delhi",
+    "pm25": 193.1,
+    "co2": 885,
+    "no2": 203.8
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T02:07:00Z",
+    "location": "Delhi",
+    "pm25": 151.3,
+    "co2": 1000,
+    "no2": 181.8
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T02:12:00Z",
+    "location": "Delhi",
+    "pm25": 123.6,
+    "co2": 1037,
+    "no2": 192.6
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T02:17:00Z",
+    "location": "Delhi",
+    "pm25": 188.9,
+    "co2": 1240,
+    "no2": 259.7
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T02:22:00Z",
+    "location": "Delhi",
+    "pm25": 189.4,
+    "co2": 1207,
+    "no2": 275.8
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T02:27:00Z",
+    "location": "Delhi",
+    "pm25": 143.9,
+    "co2": 1194,
+    "no2": 199.3
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T02:32:00Z",
+    "location": "Delhi",
+    "pm25": 220.1,
+    "co2": 1124,
+    "no2": 191.9
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T02:37:00Z",
+    "location": "Delhi",
+    "pm25": 196.0,
+    "co2": 1190,
+    "no2": 216.1
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T02:42:00Z",
+    "location": "Delhi",
+    "pm25": 190.7,
+    "co2": 1121,
+    "no2": 258.3
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T02:47:00Z",
+    "location": "Delhi",
+    "pm25": 202.2,
+    "co2": 991,
+    "no2": 258.8
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T02:52:00Z",
+    "location": "Delhi",
+    "pm25": 188.2,
+    "co2": 1185,
+    "no2": 271.0
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T02:57:00Z",
+    "location": "Delhi",
+    "pm25": 119.4,
+    "co2": 1108,
+    "no2": 233.1
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T03:02:00Z",
+    "location": "Delhi",
+    "pm25": 151.6,
+    "co2": 1168,
+    "no2": 187.3
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T03:07:00Z",
+    "location": "Delhi",
+    "pm25": 205.3,
+    "co2": 1138,
+    "no2": 197.2
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T03:12:00Z",
+    "location": "Delhi",
+    "pm25": 171.7,
+    "co2": 964,
+    "no2": 211.1
+  },
+  {
+    "sensor_id": "DEL-03",
+    "timestamp": "2024-03-01T03:17:00Z",
+    "location": "Delhi",
+    "pm25": 169.8,
+    "co2": 939,
+    "no2": 249.8
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T00:03:00Z",
+    "location": "Delhi",
+    "pm25": 192.4,
+    "co2": 1130,
+    "no2": 185.0
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T00:08:00Z",
+    "location": "Delhi",
+    "pm25": 168.7,
+    "co2": 908,
+    "no2": 224.9
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T00:13:00Z",
+    "location": "Delhi",
+    "pm25": 169.0,
+    "co2": 1113,
+    "no2": 237.0
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T00:18:00Z",
+    "location": "Delhi",
+    "pm25": 174.3,
+    "co2": 1224,
+    "no2": 263.8
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T00:23:00Z",
+    "location": "Delhi",
+    "pm25": 193.2,
+    "co2": 1082,
+    "no2": 203.0
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T00:28:00Z",
+    "location": "Delhi",
+    "pm25": 110.3,
+    "co2": 991,
+    "no2": 238.6
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T00:33:00Z",
+    "location": "Delhi",
+    "pm25": 115.2,
+    "co2": 1056,
+    "no2": 252.0
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T00:38:00Z",
+    "location": "Delhi",
+    "pm25": 172.2,
+    "co2": 910,
+    "no2": 277.8
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T00:43:00Z",
+    "location": "Delhi",
+    "pm25": 117.9,
+    "co2": 1121,
+    "no2": 178.5
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T00:48:00Z",
+    "location": "Delhi",
+    "pm25": 157.0,
+    "co2": 1273,
+    "no2": 189.9
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T00:53:00Z",
+    "location": "Delhi",
+    "pm25": 183.8,
+    "co2": 1253,
+    "no2": 246.0
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T00:58:00Z",
+    "location": "Delhi",
+    "pm25": 158.3,
+    "co2": 1075,
+    "no2": 224.3
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T01:03:00Z",
+    "location": "Delhi",
+    "pm25": 215.5,
+    "co2": 1073,
+    "no2": 216.3
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T01:08:00Z",
+    "location": "Delhi",
+    "pm25": 188.5,
+    "co2": 1218,
+    "no2": 271.2
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T01:13:00Z",
+    "location": "Delhi",
+    "pm25": 125.3,
+    "co2": 1058,
+    "no2": 188.0
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T01:18:00Z",
+    "location": "Delhi",
+    "pm25": 224.2,
+    "co2": 1081,
+    "no2": 233.2
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T01:23:00Z",
+    "location": "Delhi",
+    "pm25": 193.7,
+    "co2": 994,
+    "no2": 266.8
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T01:28:00Z",
+    "location": "Delhi",
+    "pm25": 197.0,
+    "co2": 1032,
+    "no2": 225.9
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T01:33:00Z",
+    "location": "Delhi",
+    "pm25": 192.7,
+    "co2": 1097,
+    "no2": 233.5
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T01:38:00Z",
+    "location": "Delhi",
+    "pm25": 204.7,
+    "co2": 1006,
+    "no2": 225.7
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T01:43:00Z",
+    "location": "Delhi",
+    "pm25": 127.8,
+    "co2": 976,
+    "no2": 278.1
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T01:48:00Z",
+    "location": "Delhi",
+    "pm25": 193.4,
+    "co2": 937,
+    "no2": 178.5
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T01:53:00Z",
+    "location": "Delhi",
+    "pm25": 185.9,
+    "co2": 1194,
+    "no2": 259.3
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T01:58:00Z",
+    "location": "Delhi",
+    "pm25": 211.6,
+    "co2": 888,
+    "no2": 201.5
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T02:03:00Z",
+    "location": "Delhi",
+    "pm25": 117.7,
+    "co2": 1184,
+    "no2": 178.7
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T02:08:00Z",
+    "location": "Delhi",
+    "pm25": 178.7,
+    "co2": 1240,
+    "no2": 270.9
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T02:13:00Z",
+    "location": "Delhi",
+    "pm25": 138.1,
+    "co2": 902,
+    "no2": 219.2
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T02:18:00Z",
+    "location": "Delhi",
+    "pm25": 136.9,
+    "co2": 991,
+    "no2": 258.0
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T02:23:00Z",
+    "location": "Delhi",
+    "pm25": 199.2,
+    "co2": 951,
+    "no2": 230.4
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T02:28:00Z",
+    "location": "Delhi",
+    "pm25": 143.3,
+    "co2": 1254,
+    "no2": 238.4
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T02:33:00Z",
+    "location": "Delhi",
+    "pm25": 176.4,
+    "co2": 1275,
+    "no2": 249.0
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T02:38:00Z",
+    "location": "Delhi",
+    "pm25": 146.9,
+    "co2": 1034,
+    "no2": 271.4
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T02:43:00Z",
+    "location": "Delhi",
+    "pm25": 223.4,
+    "co2": 1146,
+    "no2": 199.3
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T02:48:00Z",
+    "location": "Delhi",
+    "pm25": 144.6,
+    "co2": 911,
+    "no2": 236.2
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T02:53:00Z",
+    "location": "Delhi",
+    "pm25": 178.0,
+    "co2": 1256,
+    "no2": 275.3
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T02:58:00Z",
+    "location": "Delhi",
+    "pm25": 182.0,
+    "co2": 1098,
+    "no2": 236.1
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T03:03:00Z",
+    "location": "Delhi",
+    "pm25": 115.4,
+    "co2": 1056,
+    "no2": 278.6
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T03:08:00Z",
+    "location": "Delhi",
+    "pm25": 187.2,
+    "co2": 1148,
+    "no2": 210.1
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T03:13:00Z",
+    "location": "Delhi",
+    "pm25": 157.9,
+    "co2": 956,
+    "no2": 208.0
+  },
+  {
+    "sensor_id": "DEL-04",
+    "timestamp": "2024-03-01T03:18:00Z",
+    "location": "Delhi",
+    "pm25": 131.1,
+    "co2": 1155,
+    "no2": 227.1
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T00:04:00Z",
+    "location": "Delhi",
+    "pm25": 207.7,
+    "co2": 1033,
+    "no2": 269.3
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T00:09:00Z",
+    "location": "Delhi",
+    "pm25": 126.6,
+    "co2": 1117,
+    "no2": 275.6
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T00:14:00Z",
+    "location": "Delhi",
+    "pm25": 174.7,
+    "co2": 1093,
+    "no2": 236.3
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T00:19:00Z",
+    "location": "Delhi",
+    "pm25": 125.4,
+    "co2": 1004,
+    "no2": 203.0
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T00:24:00Z",
+    "location": "Delhi",
+    "pm25": 148.0,
+    "co2": 920,
+    "no2": 276.4
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T00:29:00Z",
+    "location": "Delhi",
+    "pm25": 207.4,
+    "co2": 927,
+    "no2": 233.9
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T00:34:00Z",
+    "location": "Delhi",
+    "pm25": 205.4,
+    "co2": 906,
+    "no2": 204.5
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T00:39:00Z",
+    "location": "Delhi",
+    "pm25": 187.5,
+    "co2": 1188,
+    "no2": 179.4
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T00:44:00Z",
+    "location": "Delhi",
+    "pm25": 118.4,
+    "co2": 1269,
+    "no2": 239.6
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T00:49:00Z",
+    "location": "Delhi",
+    "pm25": 187.2,
+    "co2": 991,
+    "no2": 227.7
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T00:54:00Z",
+    "location": "Delhi",
+    "pm25": 210.0,
+    "co2": 1050,
+    "no2": 208.4
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T00:59:00Z",
+    "location": "Delhi",
+    "pm25": 214.5,
+    "co2": 988,
+    "no2": 278.1
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T01:04:00Z",
+    "location": "Delhi",
+    "pm25": 220.6,
+    "co2": 940,
+    "no2": 257.2
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T01:09:00Z",
+    "location": "Delhi",
+    "pm25": 196.7,
+    "co2": 1004,
+    "no2": 251.5
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T01:14:00Z",
+    "location": "Delhi",
+    "pm25": 190.9,
+    "co2": 1083,
+    "no2": 275.7
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T01:19:00Z",
+    "location": "Delhi",
+    "pm25": 173.5,
+    "co2": 1277,
+    "no2": 206.1
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T01:24:00Z",
+    "location": "Delhi",
+    "pm25": 163.6,
+    "co2": 1212,
+    "no2": 214.5
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T01:29:00Z",
+    "location": "Delhi",
+    "pm25": 140.1,
+    "co2": 1142,
+    "no2": 272.1
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T01:34:00Z",
+    "location": "Delhi",
+    "pm25": 163.6,
+    "co2": 1249,
+    "no2": 226.6
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T01:39:00Z",
+    "location": "Delhi",
+    "pm25": 206.6,
+    "co2": 984,
+    "no2": 215.8
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T01:44:00Z",
+    "location": "Delhi",
+    "pm25": 157.6,
+    "co2": 1168,
+    "no2": 270.0
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T01:49:00Z",
+    "location": "Delhi",
+    "pm25": 195.2,
+    "co2": 888,
+    "no2": 203.7
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T01:54:00Z",
+    "location": "Delhi",
+    "pm25": 217.5,
+    "co2": 1176,
+    "no2": 254.2
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T01:59:00Z",
+    "location": "Delhi",
+    "pm25": 143.9,
+    "co2": 980,
+    "no2": 211.3
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T02:04:00Z",
+    "location": "Delhi",
+    "pm25": 153.7,
+    "co2": 1005,
+    "no2": 229.9
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T02:09:00Z",
+    "location": "Delhi",
+    "pm25": 185.3,
+    "co2": 1230,
+    "no2": 212.1
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T02:14:00Z",
+    "location": "Delhi",
+    "pm25": 197.8,
+    "co2": 1130,
+    "no2": 281.3
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T02:19:00Z",
+    "location": "Delhi",
+    "pm25": 183.8,
+    "co2": 1131,
+    "no2": 225.7
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T02:24:00Z",
+    "location": "Delhi",
+    "pm25": 194.3,
+    "co2": 1060,
+    "no2": 193.6
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T02:29:00Z",
+    "location": "Delhi",
+    "pm25": 192.8,
+    "co2": 1130,
+    "no2": 195.2
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T02:34:00Z",
+    "location": "Delhi",
+    "pm25": 212.3,
+    "co2": 1208,
+    "no2": 280.3
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T02:39:00Z",
+    "location": "Delhi",
+    "pm25": 170.3,
+    "co2": 918,
+    "no2": 279.0
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T02:44:00Z",
+    "location": "Delhi",
+    "pm25": 186.8,
+    "co2": 1271,
+    "no2": 175.7
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T02:49:00Z",
+    "location": "Delhi",
+    "pm25": 125.8,
+    "co2": 1202,
+    "no2": 200.5
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T02:54:00Z",
+    "location": "Delhi",
+    "pm25": 191.3,
+    "co2": 884,
+    "no2": 199.1
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T02:59:00Z",
+    "location": "Delhi",
+    "pm25": 162.4,
+    "co2": 910,
+    "no2": 243.0
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T03:04:00Z",
+    "location": "Delhi",
+    "pm25": 186.7,
+    "co2": 1195,
+    "no2": 275.4
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T03:09:00Z",
+    "location": "Delhi",
+    "pm25": 185.8,
+    "co2": 888,
+    "no2": 175.7
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T03:14:00Z",
+    "location": "Delhi",
+    "pm25": 173.4,
+    "co2": 886,
+    "no2": 176.8
+  },
+  {
+    "sensor_id": "DEL-05",
+    "timestamp": "2024-03-01T03:19:00Z",
+    "location": "Delhi",
+    "pm25": 193.1,
+    "co2": 1154,
+    "no2": 282.5
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T00:00:00Z",
+    "location": "New York",
+    "pm25": 32.8,
+    "co2": 818,
+    "no2": 151.8
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T00:05:00Z",
+    "location": "New York",
+    "pm25": 51.8,
+    "co2": 850,
+    "no2": 173.0
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T00:10:00Z",
+    "location": "New York",
+    "pm25": 36.9,
+    "co2": 634,
+    "no2": 134.4
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T00:15:00Z",
+    "location": "New York",
+    "pm25": 43.1,
+    "co2": 768,
+    "no2": 134.6
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T00:20:00Z",
+    "location": "New York",
+    "pm25": 69.5,
+    "co2": 678,
+    "no2": 161.5
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T00:25:00Z",
+    "location": "New York",
+    "pm25": 35.6,
+    "co2": 855,
+    "no2": 122.6
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T00:30:00Z",
+    "location": "New York",
+    "pm25": 58.0,
+    "co2": 788,
+    "no2": 104.6
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T00:35:00Z",
+    "location": "New York",
+    "pm25": 63.5,
+    "co2": 827,
+    "no2": 90.1
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T00:40:00Z",
+    "location": "New York",
+    "pm25": 77.6,
+    "co2": 776,
+    "no2": 158.0
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T00:45:00Z",
+    "location": "New York",
+    "pm25": 36.3,
+    "co2": 707,
+    "no2": 119.7
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T00:50:00Z",
+    "location": "New York",
+    "pm25": 53.9,
+    "co2": 773,
+    "no2": 82.9
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T00:55:00Z",
+    "location": "New York",
+    "pm25": 39.9,
+    "co2": 737,
+    "no2": 166.5
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T01:00:00Z",
+    "location": "New York",
+    "pm25": 61.7,
+    "co2": 694,
+    "no2": 138.6
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T01:05:00Z",
+    "location": "New York",
+    "pm25": 71.5,
+    "co2": 634,
+    "no2": 171.5
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T01:10:00Z",
+    "location": "New York",
+    "pm25": 74.3,
+    "co2": 668,
+    "no2": 103.1
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T01:15:00Z",
+    "location": "New York",
+    "pm25": 71.9,
+    "co2": 837,
+    "no2": 138.7
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T01:20:00Z",
+    "location": "New York",
+    "pm25": 44.5,
+    "co2": 846,
+    "no2": 89.4
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T01:25:00Z",
+    "location": "New York",
+    "pm25": 74.6,
+    "co2": 840,
+    "no2": 136.3
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T01:30:00Z",
+    "location": "New York",
+    "pm25": 62.3,
+    "co2": 655,
+    "no2": 174.9
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T01:35:00Z",
+    "location": "New York",
+    "pm25": 46.5,
+    "co2": 663,
+    "no2": 140.7
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T01:40:00Z",
+    "location": "New York",
+    "pm25": 66.6,
+    "co2": 792,
+    "no2": 164.1
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T01:45:00Z",
+    "location": "New York",
+    "pm25": 74.7,
+    "co2": 686,
+    "no2": 98.2
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T01:50:00Z",
+    "location": "New York",
+    "pm25": 43.1,
+    "co2": 823,
+    "no2": 166.9
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T01:55:00Z",
+    "location": "New York",
+    "pm25": 63.1,
+    "co2": 748,
+    "no2": 115.2
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T02:00:00Z",
+    "location": "New York",
+    "pm25": 66.8,
+    "co2": 645,
+    "no2": 161.0
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T02:05:00Z",
+    "location": "New York",
+    "pm25": 63.7,
+    "co2": 630,
+    "no2": 132.1
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T02:10:00Z",
+    "location": "New York",
+    "pm25": 76.8,
+    "co2": 623,
+    "no2": 91.8
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T02:15:00Z",
+    "location": "New York",
+    "pm25": 42.7,
+    "co2": 629,
+    "no2": 116.1
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T02:20:00Z",
+    "location": "New York",
+    "pm25": 67.4,
+    "co2": 854,
+    "no2": 141.6
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T02:25:00Z",
+    "location": "New York",
+    "pm25": 76.6,
+    "co2": 693,
+    "no2": 85.0
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T02:30:00Z",
+    "location": "New York",
+    "pm25": 44.6,
+    "co2": 725,
+    "no2": 131.1
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T02:35:00Z",
+    "location": "New York",
+    "pm25": 48.4,
+    "co2": 850,
+    "no2": 119.5
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T02:40:00Z",
+    "location": "New York",
+    "pm25": 40.5,
+    "co2": 759,
+    "no2": 148.1
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T02:45:00Z",
+    "location": "New York",
+    "pm25": 35.9,
+    "co2": 768,
+    "no2": 111.5
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T02:50:00Z",
+    "location": "New York",
+    "pm25": 43.3,
+    "co2": 628,
+    "no2": 90.2
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T02:55:00Z",
+    "location": "New York",
+    "pm25": 39.1,
+    "co2": 792,
+    "no2": 160.4
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T03:00:00Z",
+    "location": "New York",
+    "pm25": 39.1,
+    "co2": 709,
+    "no2": 113.7
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T03:05:00Z",
+    "location": "New York",
+    "pm25": 36.9,
+    "co2": 611,
+    "no2": 176.3
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T03:10:00Z",
+    "location": "New York",
+    "pm25": 52.5,
+    "co2": 804,
+    "no2": 109.0
+  },
+  {
+    "sensor_id": "NEW-01",
+    "timestamp": "2024-03-01T03:15:00Z",
+    "location": "New York",
+    "pm25": 38.1,
+    "co2": 657,
+    "no2": 125.1
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T00:01:00Z",
+    "location": "New York",
+    "pm25": 57.6,
+    "co2": 741,
+    "no2": 122.8
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T00:06:00Z",
+    "location": "New York",
+    "pm25": 33.2,
+    "co2": 700,
+    "no2": 137.4
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T00:11:00Z",
+    "location": "New York",
+    "pm25": 59.5,
+    "co2": 810,
+    "no2": 114.4
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T00:16:00Z",
+    "location": "New York",
+    "pm25": 49.7,
+    "co2": 684,
+    "no2": 123.4
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T00:21:00Z",
+    "location": "New York",
+    "pm25": 67.8,
+    "co2": 795,
+    "no2": 172.1
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T00:26:00Z",
+    "location": "New York",
+    "pm25": 73.6,
+    "co2": 672,
+    "no2": 139.2
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T00:31:00Z",
+    "location": "New York",
+    "pm25": 39.8,
+    "co2": 707,
+    "no2": 99.0
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T00:36:00Z",
+    "location": "New York",
+    "pm25": 44.4,
+    "co2": 678,
+    "no2": 131.3
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T00:41:00Z",
+    "location": "New York",
+    "pm25": 34.9,
+    "co2": 721,
+    "no2": 109.6
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T00:46:00Z",
+    "location": "New York",
+    "pm25": 45.8,
+    "co2": 810,
+    "no2": 89.7
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T00:51:00Z",
+    "location": "New York",
+    "pm25": 43.6,
+    "co2": 673,
+    "no2": 154.1
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T00:56:00Z",
+    "location": "New York",
+    "pm25": 54.8,
+    "co2": 767,
+    "no2": 101.6
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T01:01:00Z",
+    "location": "New York",
+    "pm25": 36.9,
+    "co2": 687,
+    "no2": 82.7
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T01:06:00Z",
+    "location": "New York",
+    "pm25": 50.2,
+    "co2": 825,
+    "no2": 144.0
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T01:11:00Z",
+    "location": "New York",
+    "pm25": 69.0,
+    "co2": 694,
+    "no2": 126.0
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T01:16:00Z",
+    "location": "New York",
+    "pm25": 51.8,
+    "co2": 820,
+    "no2": 168.0
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T01:21:00Z",
+    "location": "New York",
+    "pm25": 76.8,
+    "co2": 644,
+    "no2": 112.0
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T01:26:00Z",
+    "location": "New York",
+    "pm25": 59.7,
+    "co2": 787,
+    "no2": 102.1
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T01:31:00Z",
+    "location": "New York",
+    "pm25": 46.5,
+    "co2": 711,
+    "no2": 178.9
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T01:36:00Z",
+    "location": "New York",
+    "pm25": 45.4,
+    "co2": 787,
+    "no2": 145.3
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T01:41:00Z",
+    "location": "New York",
+    "pm25": 76.5,
+    "co2": 810,
+    "no2": 106.2
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T01:46:00Z",
+    "location": "New York",
+    "pm25": 49.3,
+    "co2": 819,
+    "no2": 160.6
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T01:51:00Z",
+    "location": "New York",
+    "pm25": 48.8,
+    "co2": 848,
+    "no2": 138.4
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T01:56:00Z",
+    "location": "New York",
+    "pm25": 59.2,
+    "co2": 749,
+    "no2": 100.0
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T02:01:00Z",
+    "location": "New York",
+    "pm25": 67.3,
+    "co2": 616,
+    "no2": 177.3
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T02:06:00Z",
+    "location": "New York",
+    "pm25": 53.2,
+    "co2": 791,
+    "no2": 103.0
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T02:11:00Z",
+    "location": "New York",
+    "pm25": 68.7,
+    "co2": 822,
+    "no2": 151.3
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T02:16:00Z",
+    "location": "New York",
+    "pm25": 69.7,
+    "co2": 813,
+    "no2": 161.5
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T02:21:00Z",
+    "location": "New York",
+    "pm25": 63.0,
+    "co2": 645,
+    "no2": 145.3
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T02:26:00Z",
+    "location": "New York",
+    "pm25": 43.1,
+    "co2": 778,
+    "no2": 97.4
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T02:31:00Z",
+    "location": "New York",
+    "pm25": 51.5,
+    "co2": 706,
+    "no2": 89.4
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T02:36:00Z",
+    "location": "New York",
+    "pm25": 77.6,
+    "co2": 732,
+    "no2": 140.2
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T02:41:00Z",
+    "location": "New York",
+    "pm25": 56.6,
+    "co2": 846,
+    "no2": 174.0
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T02:46:00Z",
+    "location": "New York",
+    "pm25": 63.8,
+    "co2": 749,
+    "no2": 85.7
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T02:51:00Z",
+    "location": "New York",
+    "pm25": 76.5,
+    "co2": 789,
+    "no2": 171.6
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T02:56:00Z",
+    "location": "New York",
+    "pm25": 56.7,
+    "co2": 773,
+    "no2": 173.4
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T03:01:00Z",
+    "location": "New York",
+    "pm25": 37.0,
+    "co2": 673,
+    "no2": 147.8
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T03:06:00Z",
+    "location": "New York",
+    "pm25": 48.3,
+    "co2": 775,
+    "no2": 143.3
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T03:11:00Z",
+    "location": "New York",
+    "pm25": 57.9,
+    "co2": 775,
+    "no2": 149.7
+  },
+  {
+    "sensor_id": "NEW-02",
+    "timestamp": "2024-03-01T03:16:00Z",
+    "location": "New York",
+    "pm25": 50.4,
+    "co2": 802,
+    "no2": 115.2
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T00:02:00Z",
+    "location": "New York",
+    "pm25": 68.6,
+    "co2": 637,
+    "no2": 83.1
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T00:07:00Z",
+    "location": "New York",
+    "pm25": 43.9,
+    "co2": 740,
+    "no2": 156.7
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T00:12:00Z",
+    "location": "New York",
+    "pm25": 57.7,
+    "co2": 786,
+    "no2": 139.5
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T00:17:00Z",
+    "location": "New York",
+    "pm25": 52.5,
+    "co2": 710,
+    "no2": 128.3
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T00:22:00Z",
+    "location": "New York",
+    "pm25": 63.3,
+    "co2": 786,
+    "no2": 132.0
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T00:27:00Z",
+    "location": "New York",
+    "pm25": 47.9,
+    "co2": 616,
+    "no2": 130.3
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T00:32:00Z",
+    "location": "New York",
+    "pm25": 45.6,
+    "co2": 845,
+    "no2": 178.2
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T00:37:00Z",
+    "location": "New York",
+    "pm25": 37.3,
+    "co2": 850,
+    "no2": 155.0
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T00:42:00Z",
+    "location": "New York",
+    "pm25": 48.0,
+    "co2": 697,
+    "no2": 127.5
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T00:47:00Z",
+    "location": "New York",
+    "pm25": 41.5,
+    "co2": 733,
+    "no2": 116.8
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T00:52:00Z",
+    "location": "New York",
+    "pm25": 36.5,
+    "co2": 794,
+    "no2": 151.7
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T00:57:00Z",
+    "location": "New York",
+    "pm25": 46.7,
+    "co2": 686,
+    "no2": 86.5
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T01:02:00Z",
+    "location": "New York",
+    "pm25": 64.7,
+    "co2": 615,
+    "no2": 166.9
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T01:07:00Z",
+    "location": "New York",
+    "pm25": 61.8,
+    "co2": 783,
+    "no2": 162.0
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T01:12:00Z",
+    "location": "New York",
+    "pm25": 74.8,
+    "co2": 799,
+    "no2": 106.4
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T01:17:00Z",
+    "location": "New York",
+    "pm25": 40.0,
+    "co2": 650,
+    "no2": 115.1
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T01:22:00Z",
+    "location": "New York",
+    "pm25": 51.6,
+    "co2": 728,
+    "no2": 105.2
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T01:27:00Z",
+    "location": "New York",
+    "pm25": 50.6,
+    "co2": 657,
+    "no2": 100.6
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T01:32:00Z",
+    "location": "New York",
+    "pm25": 62.2,
+    "co2": 711,
+    "no2": 84.9
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T01:37:00Z",
+    "location": "New York",
+    "pm25": 60.2,
+    "co2": 660,
+    "no2": 127.0
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T01:42:00Z",
+    "location": "New York",
+    "pm25": 51.8,
+    "co2": 611,
+    "no2": 152.5
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T01:47:00Z",
+    "location": "New York",
+    "pm25": 41.5,
+    "co2": 802,
+    "no2": 152.4
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T01:52:00Z",
+    "location": "New York",
+    "pm25": 68.6,
+    "co2": 757,
+    "no2": 92.2
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T01:57:00Z",
+    "location": "New York",
+    "pm25": 72.1,
+    "co2": 657,
+    "no2": 118.6
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T02:02:00Z",
+    "location": "New York",
+    "pm25": 41.1,
+    "co2": 639,
+    "no2": 108.2
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T02:07:00Z",
+    "location": "New York",
+    "pm25": 71.7,
+    "co2": 745,
+    "no2": 178.6
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T02:12:00Z",
+    "location": "New York",
+    "pm25": 46.4,
+    "co2": 709,
+    "no2": 143.1
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T02:17:00Z",
+    "location": "New York",
+    "pm25": 59.0,
+    "co2": 699,
+    "no2": 117.2
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T02:22:00Z",
+    "location": "New York",
+    "pm25": 53.1,
+    "co2": 654,
+    "no2": 163.4
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T02:27:00Z",
+    "location": "New York",
+    "pm25": 64.5,
+    "co2": 686,
+    "no2": 173.9
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T02:32:00Z",
+    "location": "New York",
+    "pm25": 59.1,
+    "co2": 782,
+    "no2": 95.4
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T02:37:00Z",
+    "location": "New York",
+    "pm25": 37.4,
+    "co2": 688,
+    "no2": 93.7
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T02:42:00Z",
+    "location": "New York",
+    "pm25": 49.2,
+    "co2": 646,
+    "no2": 133.1
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T02:47:00Z",
+    "location": "New York",
+    "pm25": 51.2,
+    "co2": 645,
+    "no2": 139.5
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T02:52:00Z",
+    "location": "New York",
+    "pm25": 51.5,
+    "co2": 734,
+    "no2": 145.6
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T02:57:00Z",
+    "location": "New York",
+    "pm25": 63.9,
+    "co2": 775,
+    "no2": 175.1
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T03:02:00Z",
+    "location": "New York",
+    "pm25": 40.0,
+    "co2": 652,
+    "no2": 131.0
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T03:07:00Z",
+    "location": "New York",
+    "pm25": 38.5,
+    "co2": 690,
+    "no2": 166.2
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T03:12:00Z",
+    "location": "New York",
+    "pm25": 60.5,
+    "co2": 831,
+    "no2": 117.9
+  },
+  {
+    "sensor_id": "NEW-03",
+    "timestamp": "2024-03-01T03:17:00Z",
+    "location": "New York",
+    "pm25": 32.4,
+    "co2": 644,
+    "no2": 101.5
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T00:03:00Z",
+    "location": "New York",
+    "pm25": 49.7,
+    "co2": 753,
+    "no2": 132.5
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T00:08:00Z",
+    "location": "New York",
+    "pm25": 54.8,
+    "co2": 785,
+    "no2": 131.2
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T00:13:00Z",
+    "location": "New York",
+    "pm25": 64.7,
+    "co2": 723,
+    "no2": 130.9
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T00:18:00Z",
+    "location": "New York",
+    "pm25": 35.8,
+    "co2": 617,
+    "no2": 161.6
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T00:23:00Z",
+    "location": "New York",
+    "pm25": 42.1,
+    "co2": 618,
+    "no2": 109.5
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T00:28:00Z",
+    "location": "New York",
+    "pm25": 56.7,
+    "co2": 653,
+    "no2": 160.1
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T00:33:00Z",
+    "location": "New York",
+    "pm25": 58.0,
+    "co2": 807,
+    "no2": 158.6
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T00:38:00Z",
+    "location": "New York",
+    "pm25": 57.3,
+    "co2": 638,
+    "no2": 139.3
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T00:43:00Z",
+    "location": "New York",
+    "pm25": 44.3,
+    "co2": 749,
+    "no2": 164.3
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T00:48:00Z",
+    "location": "New York",
+    "pm25": 48.9,
+    "co2": 820,
+    "no2": 157.7
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T00:53:00Z",
+    "location": "New York",
+    "pm25": 67.0,
+    "co2": 722,
+    "no2": 136.6
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T00:58:00Z",
+    "location": "New York",
+    "pm25": 77.5,
+    "co2": 636,
+    "no2": 155.6
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T01:03:00Z",
+    "location": "New York",
+    "pm25": 62.1,
+    "co2": 673,
+    "no2": 111.8
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T01:08:00Z",
+    "location": "New York",
+    "pm25": 78.0,
+    "co2": 725,
+    "no2": 108.3
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T01:13:00Z",
+    "location": "New York",
+    "pm25": 71.7,
+    "co2": 632,
+    "no2": 125.9
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T01:18:00Z",
+    "location": "New York",
+    "pm25": 77.7,
+    "co2": 808,
+    "no2": 163.2
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T01:23:00Z",
+    "location": "New York",
+    "pm25": 41.7,
+    "co2": 798,
+    "no2": 140.8
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T01:28:00Z",
+    "location": "New York",
+    "pm25": 48.1,
+    "co2": 791,
+    "no2": 143.0
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T01:33:00Z",
+    "location": "New York",
+    "pm25": 51.7,
+    "co2": 767,
+    "no2": 95.9
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T01:38:00Z",
+    "location": "New York",
+    "pm25": 41.5,
+    "co2": 662,
+    "no2": 162.5
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T01:43:00Z",
+    "location": "New York",
+    "pm25": 58.2,
+    "co2": 746,
+    "no2": 110.1
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T01:48:00Z",
+    "location": "New York",
+    "pm25": 56.8,
+    "co2": 692,
+    "no2": 179.9
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T01:53:00Z",
+    "location": "New York",
+    "pm25": 45.5,
+    "co2": 756,
+    "no2": 108.7
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T01:58:00Z",
+    "location": "New York",
+    "pm25": 71.5,
+    "co2": 840,
+    "no2": 149.9
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T02:03:00Z",
+    "location": "New York",
+    "pm25": 36.4,
+    "co2": 802,
+    "no2": 160.6
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T02:08:00Z",
+    "location": "New York",
+    "pm25": 74.3,
+    "co2": 680,
+    "no2": 168.7
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T02:13:00Z",
+    "location": "New York",
+    "pm25": 37.8,
+    "co2": 831,
+    "no2": 95.3
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T02:18:00Z",
+    "location": "New York",
+    "pm25": 38.7,
+    "co2": 692,
+    "no2": 164.8
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T02:23:00Z",
+    "location": "New York",
+    "pm25": 67.0,
+    "co2": 783,
+    "no2": 121.3
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T02:28:00Z",
+    "location": "New York",
+    "pm25": 38.5,
+    "co2": 771,
+    "no2": 108.9
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T02:33:00Z",
+    "location": "New York",
+    "pm25": 51.1,
+    "co2": 725,
+    "no2": 89.6
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T02:38:00Z",
+    "location": "New York",
+    "pm25": 68.6,
+    "co2": 806,
+    "no2": 91.3
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T02:43:00Z",
+    "location": "New York",
+    "pm25": 55.7,
+    "co2": 681,
+    "no2": 151.5
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T02:48:00Z",
+    "location": "New York",
+    "pm25": 72.4,
+    "co2": 726,
+    "no2": 177.0
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T02:53:00Z",
+    "location": "New York",
+    "pm25": 47.1,
+    "co2": 610,
+    "no2": 168.9
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T02:58:00Z",
+    "location": "New York",
+    "pm25": 71.0,
+    "co2": 633,
+    "no2": 155.1
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T03:03:00Z",
+    "location": "New York",
+    "pm25": 53.1,
+    "co2": 780,
+    "no2": 151.7
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T03:08:00Z",
+    "location": "New York",
+    "pm25": 71.1,
+    "co2": 813,
+    "no2": 135.4
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T03:13:00Z",
+    "location": "New York",
+    "pm25": 42.0,
+    "co2": 719,
+    "no2": 164.5
+  },
+  {
+    "sensor_id": "NEW-04",
+    "timestamp": "2024-03-01T03:18:00Z",
+    "location": "New York",
+    "pm25": 54.8,
+    "co2": 692,
+    "no2": 164.8
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T00:04:00Z",
+    "location": "New York",
+    "pm25": 47.5,
+    "co2": 757,
+    "no2": 95.1
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T00:09:00Z",
+    "location": "New York",
+    "pm25": 71.2,
+    "co2": 811,
+    "no2": 116.4
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T00:14:00Z",
+    "location": "New York",
+    "pm25": 63.4,
+    "co2": 622,
+    "no2": 86.6
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T00:19:00Z",
+    "location": "New York",
+    "pm25": 60.8,
+    "co2": 824,
+    "no2": 128.0
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T00:24:00Z",
+    "location": "New York",
+    "pm25": 37.7,
+    "co2": 829,
+    "no2": 97.8
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T00:29:00Z",
+    "location": "New York",
+    "pm25": 53.0,
+    "co2": 855,
+    "no2": 124.8
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T00:34:00Z",
+    "location": "New York",
+    "pm25": 77.8,
+    "co2": 842,
+    "no2": 95.2
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T00:39:00Z",
+    "location": "New York",
+    "pm25": 61.9,
+    "co2": 650,
+    "no2": 169.4
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T00:44:00Z",
+    "location": "New York",
+    "pm25": 72.3,
+    "co2": 633,
+    "no2": 147.5
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T00:49:00Z",
+    "location": "New York",
+    "pm25": 43.5,
+    "co2": 705,
+    "no2": 148.5
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T00:54:00Z",
+    "location": "New York",
+    "pm25": 61.8,
+    "co2": 623,
+    "no2": 121.6
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T00:59:00Z",
+    "location": "New York",
+    "pm25": 46.1,
+    "co2": 789,
+    "no2": 157.5
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T01:04:00Z",
+    "location": "New York",
+    "pm25": 51.7,
+    "co2": 633,
+    "no2": 152.4
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T01:09:00Z",
+    "location": "New York",
+    "pm25": 32.0,
+    "co2": 732,
+    "no2": 89.8
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T01:14:00Z",
+    "location": "New York",
+    "pm25": 59.3,
+    "co2": 742,
+    "no2": 150.0
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T01:19:00Z",
+    "location": "New York",
+    "pm25": 32.4,
+    "co2": 788,
+    "no2": 116.4
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T01:24:00Z",
+    "location": "New York",
+    "pm25": 37.5,
+    "co2": 830,
+    "no2": 124.2
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T01:29:00Z",
+    "location": "New York",
+    "pm25": 38.1,
+    "co2": 628,
+    "no2": 104.9
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T01:34:00Z",
+    "location": "New York",
+    "pm25": 36.1,
+    "co2": 816,
+    "no2": 92.2
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T01:39:00Z",
+    "location": "New York",
+    "pm25": 46.4,
+    "co2": 835,
+    "no2": 111.9
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T01:44:00Z",
+    "location": "New York",
+    "pm25": 49.6,
+    "co2": 818,
+    "no2": 157.3
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T01:49:00Z",
+    "location": "New York",
+    "pm25": 38.1,
+    "co2": 783,
+    "no2": 96.3
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T01:54:00Z",
+    "location": "New York",
+    "pm25": 56.4,
+    "co2": 612,
+    "no2": 143.0
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T01:59:00Z",
+    "location": "New York",
+    "pm25": 39.5,
+    "co2": 699,
+    "no2": 154.2
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T02:04:00Z",
+    "location": "New York",
+    "pm25": 60.9,
+    "co2": 648,
+    "no2": 174.0
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T02:09:00Z",
+    "location": "New York",
+    "pm25": 60.3,
+    "co2": 723,
+    "no2": 168.0
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T02:14:00Z",
+    "location": "New York",
+    "pm25": 36.0,
+    "co2": 635,
+    "no2": 96.0
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T02:19:00Z",
+    "location": "New York",
+    "pm25": 37.7,
+    "co2": 796,
+    "no2": 120.4
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T02:24:00Z",
+    "location": "New York",
+    "pm25": 76.3,
+    "co2": 690,
+    "no2": 161.1
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T02:29:00Z",
+    "location": "New York",
+    "pm25": 43.4,
+    "co2": 775,
+    "no2": 90.4
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T02:34:00Z",
+    "location": "New York",
+    "pm25": 57.5,
+    "co2": 763,
+    "no2": 154.1
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T02:39:00Z",
+    "location": "New York",
+    "pm25": 45.1,
+    "co2": 850,
+    "no2": 151.0
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T02:44:00Z",
+    "location": "New York",
+    "pm25": 71.0,
+    "co2": 778,
+    "no2": 169.6
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T02:49:00Z",
+    "location": "New York",
+    "pm25": 41.5,
+    "co2": 765,
+    "no2": 133.0
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T02:54:00Z",
+    "location": "New York",
+    "pm25": 66.4,
+    "co2": 685,
+    "no2": 146.6
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T02:59:00Z",
+    "location": "New York",
+    "pm25": 68.1,
+    "co2": 813,
+    "no2": 177.5
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T03:04:00Z",
+    "location": "New York",
+    "pm25": 54.8,
+    "co2": 638,
+    "no2": 106.1
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T03:09:00Z",
+    "location": "New York",
+    "pm25": 61.4,
+    "co2": 628,
+    "no2": 134.8
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T03:14:00Z",
+    "location": "New York",
+    "pm25": 77.0,
+    "co2": 702,
+    "no2": 175.4
+  },
+  {
+    "sensor_id": "NEW-05",
+    "timestamp": "2024-03-01T03:19:00Z",
+    "location": "New York",
+    "pm25": 38.1,
+    "co2": 830,
+    "no2": 165.9
   }
 ]
