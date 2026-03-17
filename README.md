@@ -6,7 +6,7 @@ A dataset is submitted to a central scheduler, which splits it into chunks and d
 
 ## Demo
 
-![demo](docs/demo.gif)
+![demo](demo/demo.webm)
 
 ## How it works
 
